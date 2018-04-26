@@ -3,74 +3,39 @@ library(shinythemes)
 library(ggplot2)
 library(tidyr)
 library(dplyr)
-library(plotly)
+library(wordcloud)
 
-# Define server logic required to draw a histogram
-movie <- read.csv("imdb_movie.csv", as.is = TRUE, header = TRUE, encoding = "UTF-8")
-
-# Tidy genres
-new_movie <- gather(movie, "genres_no", "genres", 5:7)
-new_movie <- new_movie[new_movie$genres != "", ]
-
-# For genres related topics, not related to Region and Language, below is the dataset
-movie_for_genres <- new_movie %>% distinct(new_movie, tconst, title, releaseYear, runtimeMinutes, averageRating, numVotes, directorName, writerName, genres_no, genres)
+data2 <- read.csv('imdb_movie.csv', as.is = TRUE, header = TRUE, encoding = "UTF-8")
 
 # Replace "\\N" by "Others" according to the data source definition
-movie_for_genres$genres[movie_for_genres$genres == "\\N"] <- "Others"
-
-i = 0
-result <- NULL
-for(gen in unique(movie_for_genres$genres)){
-  i <- i+1
-  result[i] <- nrow(movie_for_genres[movie_for_genres$genres == gen,])
-}
-
-maxnum <- max(result)
+data2$genres1[data2$genres1 == "\\N"] <- "Others"
 
 server <- function(input, output) {
   
-  output$barPlot <- renderPlotly({
-    # generate data based on dataset, input$genreType, input$year and input$obs from ui.R
-    subdata <- movie_for_genres %>% 
-      select(title, averageRating, numVotes, releaseYear, genres) %>%
-      filter(releaseYear == input$year & genres == input$genreType) %>%
-      arrange(desc(numVotes))
+  output$wordcloud <- renderPlot({
+    # generate data based on dataset, input$genreType, input$year and input$rate from ui.R
+    high_rating <- data2[data2$averageRating >= input$rate[1] & data2$averageRating <= input$rate[2],]
     
-    options(scipen = 200)
-    n = input$obs
+    if (input$genreType == "All"){
+      Director_high <- high_rating %>% 
+        select(title, directorName, averageRating, numVotes, releaseYear, genres1) %>%
+        filter(releaseYear >= input$year[1] & releaseYear <= input$year[2]) %>%
+        group_by(directors = directorName) %>% 
+        summarize(count = n())
+    } else {
+      Director_high <- high_rating %>% 
+        select(title, directorName, averageRating, numVotes, releaseYear, genres1) %>%
+        filter(releaseYear >= input$year[1] & releaseYear <= input$year[2] & genres1 == input$genreType) %>%
+        group_by(directors = directorName) %>% 
+        summarize(count = n())
+    }
     
-    subdata <- as.data.frame(subdata)
-    subdata$title <- factor(subdata$title, levels = unique(subdata$title[order(-subdata$numVotes)]))
+    Director_high <- as.data.frame(Director_high)
+    Director_high$directors <- factor(Director_high$directors)
     
-    # draw the barchart with the specified genre and year
-    g1 <- ggplot(subdata[1:n, ], aes(title, numVotes)) +
-      geom_col() +
-      theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 5, face = "bold"), axis.text.y = element_text(size = 5)) +
-      labs(x = "Movie Title", y = "Number of Votes", title = "Number of Votes by Genres by Year")
-    
-    ggplotly(g1)
-  })
-  
-  output$scatPlot <- renderPlotly({
-    # generate data based on dataset, input$genreType, input$year and input$obs from ui.R
-    subdata <- movie_for_genres %>% 
-      select(title, averageRating, numVotes, releaseYear, genres) %>%
-      filter(releaseYear == input$year & genres == input$genreType) %>%
-      arrange(desc(numVotes))
-    
-    options(scipen = 200)
-    n = input$obs
-    
-    subdata <- as.data.frame(subdata)
-    subdata$title <- factor(subdata$title, levels = unique(subdata$title[order(-subdata$averageRating)]))
-    
-    # draw the scatterplot with the specified genre and year
-    g2 <- ggplot(subdata[1:n, ], aes(title, averageRating)) +
-      geom_point() +
-      theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 5), axis.text.y = element_text(size = 7)) +
-      labs(x = "Movie Title", y = "Average Rating", title = "Average Rating by Genres by Year")
-    
-    ggplotly(g2)
+    # draw the wordcloud with the specified rate range
+    wordcloud(words = Director_high$directors, freq = Director_high$count, min.freq = 1,
+              max.words = 100, random.order = FALSE, rot.per=0.35, 
+              colors=brewer.pal(8, "Dark2"))
   })
 }
-

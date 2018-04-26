@@ -1,0 +1,784 @@
+,gross_amount,movie_name,open_time,year,tconst,title,releaseYear,runtimeMinutes,genres1,genres2,genres3,averageRating,numVotes,directorName,writerName
+0,"$337,135,885",The Hunger Games: Mockingjay - Part 1,11/21,2014,tt1951265,The Hunger Games: Mockingjay - Part 1,2014,123,Action,Adventure,Sci-Fi,6.7,354773,Francis Lawrence,Peter Craig
+1,"$337,135,885",The Hunger Games: Mockingjay - Part 1,11/21,2014,tt1951266,The Hunger Games: Mockingjay - Part 2,2015,137,Action,Adventure,Sci-Fi,6.5,227244,Francis Lawrence,Peter Craig
+2,"$333,176,600",Guardians of the Galaxy,8/1,2014,tt2015381,Guardians of the Galaxy,2014,121,Action,Adventure,Sci-Fi,8.1,828704,James Gunn,James Gunn
+3,"$333,176,600",Guardians of the Galaxy,8/1,2014,tt3896198,Guardians of the Galaxy Vol. 2,2017,136,Action,Adventure,Sci-Fi,7.7,361364,James Gunn,James Gunn
+4,"$255,119,788",The Hobbit: The Battle of the Five Armies,12/17,2014,tt2310332,The Hobbit: The Battle of the Five Armies,2014,144,Adventure,Fantasy,,7.4,411073,Peter Jackson,Fran Walsh
+5,"$245,439,076",Transformers: Age of Extinction,6/27,2014,tt2109248,Transformers: Age of Extinction,2014,165,Action,Adventure,Sci-Fi,5.7,270265,Michael Bay,Ehren Kruger
+6,"$241,410,378",Maleficent,5/30,2014,tt1587310,Maleficent,2014,97,Action,Adventure,Family,7.0,285189,Robert Stromberg,Linda Woolverton
+7,"$208,545,589",Dawn of the Planet of the Apes,7/11,2014,tt2103281,Dawn of the Planet of the Apes,2014,130,Action,Adventure,Drama,7.6,369953,Matt Reeves,Mark Bomback
+8,"$191,719,337",22 Jump Street,6/13,2014,tt2294449,22 Jump Street,2014,112,Action,Comedy,Crime,7.0,299422,Phil Lord,Michael Bacall
+9,"$188,020,017",Interstellar,11/5,2014,tt0816692,Interstellar,2014,169,Adventure,Drama,Sci-Fi,8.6,1163959,Christopher Nolan,Jonathan Nolan
+10,"$150,157,400",Neighbors,5/9,2014,tt2004420,Neighbors,2014,97,Comedy,,,6.3,250862,Nicholas Stoller,Andrew Jay Cohen
+11,"$150,157,400",Neighbors,5/9,2014,tt3592020,Neighbours,2014,125,Horror,,,3.6,30,Shyam Ramsay,Shyam Ramsay
+12,"$134,938,200",Ride Along,1/17,2014,tt1408253,Ride Along,2014,99,Action,Comedy,Crime,6.2,88274,Tim Story,Greg Coolidge
+13,"$134,938,200",Ride Along,1/17,2014,tt2869728,Ride Along 2,2016,102,Action,Comedy,,5.9,43610,Tim Story,Phil Hay
+14,"$126,663,600",Lucy,7/25,2014,tt2872732,Lucy,2014,89,Action,Sci-Fi,Thriller,6.4,377382,Luc Besson,Luc Besson
+15,"$126,663,600",Lucy,7/25,2014,tt3890902,Lucky,2016,89,Action,Crime,Drama,5.3,261,Bari Kang,Bari Kang
+16,"$126,663,600",Lucy,7/25,2014,tt5859238,Lucky,2017,88,Comedy,Drama,,7.4,7062,John Carroll Lynch,Logan Sparks
+17,"$111,506,430",Mr. Peabody & Sherman,3/7,2014,tt0864835,Mr. Peabody & Sherman,2014,92,Adventure,Animation,Comedy,6.8,54070,Rob Minkoff,Jay Ward
+18,"$106,580,051",300: Rise of An Empire,3/7,2014,tt1253863,300: Rise of an Empire,2014,102,Action,Fantasy,,6.2,249645,Noam Murro,Zack Snyder
+19,"$101,530,738",The Equalizer,9/26,2014,tt0455944,The Equalizer,2014,132,Action,Crime,Thriller,7.2,262882,Antoine Fuqua,Richard Wenk
+20,"$101,200,044",Noah,3/28,2014,tt1959490,Noah,2014,138,Action,Adventure,Drama,5.8,219236,Darren Aronofsky,Darren Aronofsky
+21,"$92,168,600",Non-Stop,2/28,2014,tt2024469,Non-Stop,2014,106,Action,Mystery,Thriller,7.0,222817,Jaume Collet-Serra,John W. Richardson
+22,"$91,125,683",The Imitation Game,11/28,2014,tt2084970,The Imitation Game,2014,114,Biography,Drama,History,8.0,572268,Morten Tyldum,Graham Moore
+23,"$86,208,010",Dumb and Dumber To,11/14,2014,tt2096672,Dumb and Dumber To,2014,109,Adventure,Comedy,,5.6,110850,Bobby Farrelly,Sean Anders
+24,"$84,525,432",Tammy,7/2,2014,tt2103254,Tammy,2014,97,Comedy,Romance,,4.9,41246,Ben Falcone,Melissa McCarthy
+25,"$78,031,620",The Monuments Men,2/7,2014,tt2177771,The Monuments Men,2014,118,Drama,History,War,6.1,112631,George Clooney,George Clooney
+26,"$60,755,732",God's Not Dead,3/21,2014,tt2528814,God's Not Dead,2014,113,Drama,,,4.8,36038,Harold Cronk,Hunter Dennis
+27,"$59,700,064",Son of God,2/28,2014,tt3210686,Son of God,2014,138,Biography,Drama,History,5.7,16948,Christopher Spencer,Richard Bedser
+28,"$59,301,324",The Grand Budapest Hotel,3/7,2014,tt2278388,The Grand Budapest Hotel,2014,99,Adventure,Comedy,Drama,8.1,581975,Wes Anderson,Stefan Zweig
+29,"$56,280,355",Dracula Untold,10/10,2014,tt0829150,Dracula Untold,2014,92,Action,Drama,Fantasy,6.3,156523,Gary Shore,Matt Sazama
+30,"$51,183,113",Muppets Most Wanted,3/21,2014,tt2281587,Muppets Most Wanted,2014,107,Adventure,Comedy,Crime,6.4,27267,James Bobin,James Bobin
+31,"$50,856,010",Ouija,10/24,2014,tt1204977,Ouija,2014,89,Horror,Thriller,,4.5,40810,Stiles White,Juliet Snowden
+32,"$50,837,305",The Boxtrolls,9/26,2014,tt0787474,The Boxtrolls,2014,96,Adventure,Animation,Comedy,6.8,47969,Graham Annable,Irena Brignull
+33,"$50,577,412",Jack Ryan: Shadow Recruit,1/17,2014,tt1205537,Jack Ryan: Shadow Recruit,2014,105,Action,Drama,Thriller,6.2,107775,Kenneth Branagh,Adam Cozad
+34,"$50,474,843",If I Stay,8/22,2014,tt1355630,If I Stay,2014,107,Drama,Fantasy,Music,6.8,99429,R.J. Cutler,Shauna Cross
+35,"$47,602,194",Into The Storm,8/8,2014,tt2106361,Into the Storm,2014,89,Action,Thriller,,5.8,58601,Steven Quale,John Swetnam
+36,"$45,090,374",The Giver,8/15,2014,tt0435651,The Giver,2014,97,Drama,Romance,Sci-Fi,6.5,99566,Phillip Noyce,Michael Mitnick
+37,"$43,037,835",John Wick,10/24,2014,tt2911666,John Wick,2014,101,Action,Crime,Thriller,7.3,380546,David Leitch,Derek Kolstad
+38,"$39,322,544",The Expendables 3,8/15,2014,tt0996664,The Extendables,2014,84,Comedy,,,4.3,179,Brian Thompson,Brian Thompson
+39,"$39,322,544",The Expendables 3,8/15,2014,tt2333784,The Expendables 3,2014,126,Action,Adventure,Thriller,6.1,146387,Patrick Hughes,Sylvester Stallone
+40,"$38,543,473",Sex Tape,7/18,2014,tt1956620,Sex Tape,2014,94,Comedy,Romance,,5.1,95039,Jake Kasdan,Kate Angelo
+41,"$34,296,320",This is Where I Leave You,9/19,2014,tt1371150,This Is Where I Leave You,2014,103,Comedy,Drama,,6.6,61700,Shawn Levy,Jonathan Tropper
+42,"$33,680,992",The Gambler,12/25,2014,tt2924336,The Gambler,2013,109,Drama,Thriller,,7.3,1390,Ignas Jonynas,Ignas Jonynas
+43,"$32,462,372",Paranormal Activity: The Marked Ones,1/3,2014,tt2473682,Paranormal Activity: The Marked Ones,2014,84,Horror,Thriller,,5.0,35211,Christopher Landon,Christopher Landon
+44,"$32,381,217",Nightcrawler,10/31,2014,tt2872718,Nightcrawler,2014,118,Crime,Drama,Thriller,7.9,366581,Dan Gilroy,Dan Gilroy
+45,"$31,424,003",Chef,5/9,2014,tt3526538,Che,2014,125,Biography,War,,6.2,1105,Ebrahim Hatamikia,Ebrahim Hatamikia
+46,"$30,703,100",Get On Up,8/1,2014,tt2473602,Get on Up,2014,139,Biography,Drama,Music,6.9,17996,Tate Taylor,Jez Butterworth
+47,"$30,697,999",3 Days to Kill,2/21,2014,tt2172934,3 Days to Kill,2014,117,Action,Drama,Thriller,6.2,77332,McG,Adi Hasak
+48,"$30,577,122",Deliver Us From Evil,7/2,2014,tt4134826,But Deliver Us from Evil,2017,109,Horror,Thriller,,2.9,109,Joshua Coates,Joshua Coates
+49,"$27,695,246",Oculus,4/11,2014,tt2388715,Oculus,2013,104,Horror,Mystery,,6.5,99346,Mike Flanagan,Mike Flanagan
+50,"$26,766,213",The Best of Me,10/17,2014,tt1972779,The Best of Me,2014,118,Drama,Romance,,6.7,53888,Michael Hoffman,Nicholas Sparks
+51,"$26,766,213",The Best of Me,10/17,2014,tt3243900,The Best of It,2016,118,Documentary,Drama,,7.1,14,Scott Pearson Eberly,Scott Pearson Eberly
+52,"$26,307,600",A Walk Among the Tombstones,9/19,2014,tt0365907,A Walk Among the Tombstones,2014,114,Crime,Drama,Mystery,6.5,98701,Scott Frank,Lawrence Block
+53,"$25,317,379",Top Five,12/12,2014,tt2784678,Top Five,2014,102,Comedy,Romance,,6.4,23939,Chris Rock,Chris Rock
+54,"$25,018,119",The November Man,8/27,2014,tt2402157,The November Man,2014,108,Action,Crime,Thriller,6.3,56326,Roger Donaldson,Michael Finch
+55,"$21,321,100",As Above/So Below,8/29,2014,tt2870612,"As Above, So Below",2014,93,Horror,Mystery,Thriller,6.2,59837,John Erick Dowdle,John Erick Dowdle
+56,"$20,396,829",Brick Mansions,4/25,2014,tt1430612,Brick Mansions,2014,90,Action,Crime,Sci-Fi,5.7,35702,Camille Delamarre,Luc Besson
+57,"$19,075,290","I, Frankenstein",1/24,2014,tt1418377,"I, Frankenstein",2014,92,Action,Fantasy,Horror,5.1,72243,Stuart Beattie,Stuart Beattie
+58,"$17,780,194",Bears,4/18,2014,tt2458776,Bears,2014,78,Documentary,,,7.4,5681,Keith Scholey,Alastair Fothergill
+59,"$17,329,486",A Haunted House 2,4/18,2014,tt2828996,A Haunted House 2,2014,86,Comedy,Fantasy,,4.7,16839,Michael Tiddes,Marlon Wayans
+60,"$17,237,855",A Most Wanted Man,7/25,2014,tt1972571,A Most Wanted Man,2014,122,Crime,Drama,Thriller,6.8,64536,Anton Corbijn,Andrew Bovell
+61,"$16,170,632",Begin Again,6/27,2014,tt1945037,Begin Again,2013,68,Drama,Family,,7.0,53,Bill Gillane,Joshua Samson
+62,"$16,170,632",Begin Again,6/27,2014,tt1980929,Begin Again,2013,104,Comedy,Drama,Music,7.4,121259,John Carney,John Carney
+63,"$15,821,461",Devil's Due,1/17,2014,tt2396711,Devil's Deal,2013,101,Drama,Horror,Thriller,2.6,159,Allen Reed,Allen Reed
+64,"$15,821,461",Devil's Due,1/17,2014,tt2752758,Devil's Due,2014,89,Horror,Mystery,Thriller,4.1,15003,Matt Bettinelli-Olpin,Lindsay Devlin
+65,"$15,160,801",And So It Goes,7/25,2014,tt2465146,And So It Goes,2014,94,Comedy,Drama,Romance,5.8,10766,Rob Reiner,Mark Andrus
+66,"$14,618,727",Beyond the Lights,11/14,2014,tt3125324,Beyond the Lights,2014,116,Drama,Music,Romance,6.9,13219,Gina Prince-Bythewood,Gina Prince-Bythewood
+67,"$13,371,528",Labor Day,1/31,2014,tt1967545,Labor Day,2013,111,Drama,Romance,,6.9,36267,Jason Reitman,Jason Reitman
+68,"$10,539,326",Magic in the Moonlight,7/25,2014,tt2870756,Magic in the Moonlight,2014,97,Comedy,Romance,,6.6,55587,Woody Allen,Woody Allen
+69,"$8,462,027",Legends of Oz: Dorothy's Return,5/9,2014,tt0884726,Legends of Oz: Dorothy's Return,2013,88,Adventure,Animation,Family,5.5,5332,Will Finn,Roger S. Baum
+70,"$5,749,134",A Most Violent Year,12/31,2014,tt2937898,A Most Violent Year,2014,125,Crime,Drama,Thriller,7.0,55174,J.C. Chandor,J.C. Chandor
+71,"$5,284,309",The Skeleton Twins,9/12,2014,tt1571249,The Skeleton Twins,2014,93,Comedy,Drama,Romance,6.8,35117,Craig Johnson,Craig Johnson
+72,"$5,209,580",The Wind Rises,2/21,2014,tt2013293,The Wind Rises,2013,126,Animation,Biography,Drama,7.8,54837,Hayao Miyazaki,Hayao Miyazaki
+73,"$4,438,438",The Railway Man,4/11,2014,tt2058107,The Railway Man,2013,116,Biography,Drama,Romance,7.1,32583,Jonathan Teplitzky,Frank Cottrell Boyce
+74,"$3,958,500",Mr. Turner,12/19,2014,tt2473794,Mr. Turner,2014,150,Biography,Drama,History,6.8,21308,Mike Leigh,Mike Leigh
+75,"$3,827,060",Ida,5/2,2014,tt2718492,Ida,2013,82,Drama,,,7.4,41959,Pawel Pawlikowski,Pawel Pawlikowski
+76,"$3,769,873",Fading Gigolo,4/18,2014,tt2258345,Fading Gigolo,2013,90,Comedy,,,6.2,21485,John Turturro,John Turturro
+77,"$3,591,299",Wish I Was Here,7/18,2014,tt2870708,Wish I Was Here,2014,106,Comedy,Drama,,6.7,33191,Zach Braff,Adam J. Braff
+78,"$3,494,070",Mommy,9/19,2014,tt3612616,Mommy,2014,139,Drama,,,8.1,38316,Xavier Dolan,Xavier Dolan
+79,"$3,430,018",The Grand Seduction,5/30,2014,tt2319580,The Grand Seduction,2013,113,Comedy,,,7.0,13516,Don McKellar,Ken Scott
+80,"$3,322,127",Veronica Mars,3/14,2014,tt2771372,Veronica Mars,2014,107,Crime,Drama,Mystery,6.8,44910,Rob Thomas,Rob Thomas
+81,"$3,128,941",Rosewater,11/14,2014,tt2752688,Rosewater,2014,103,Biography,Drama,,6.6,9431,Jon Stewart,Jon Stewart
+82,"$2,880,537",The Trip to Italy,8/15,2014,tt2967006,The Trip to Italy,2014,108,Comedy,Drama,,6.6,12908,Michael Winterbottom,Michael Winterbottom
+83,"$2,756,333",The Pyramid,12/5,2014,tt2799166,The Pyramid,2014,89,Action,Adventure,Horror,4.6,20007,Gr¨¦gory Levasseur,Daniel Meersand
+84,"$2,627,209",The Raid 2,3/28,2014,tt2265171,The Raid 2,2014,150,Action,Thriller,,8.0,97101,Gareth Evans,Gareth Evans
+85,"$2,553,002",Dragon Ball Z: Battle of Gods,8/5,2014,tt2263944,Dragon Ball Z: Battle of Gods,2013,85,Action,Animation,Comedy,7.3,22060,Masahiro Hosoda,Akira Toriyama
+86,"$2,472,695",Kick,7/25,2014,tt2402127,Kick,2015,76,Drama,Horror,Thriller,3.2,214,Marcus Warren,Marcus Warren
+87,"$2,450,846",Kill the Messenger,10/10,2014,tt1216491,Kill the Messenger,2014,112,Biography,Crime,Drama,7.0,38101,Michael Cuesta,Peter Landesman
+88,"$2,429,989",The Homesman,11/14,2014,tt2398231,The Homesman,2014,122,Drama,Western,,6.6,25732,Tommy Lee Jones,Tommy Lee Jones
+89,"$2,300,121",Ode to My Father,12/25,2014,tt3812366,Ode to My Father,2014,126,Drama,,,7.8,2453,JK Youn,Soo-jin Park
+90,"$2,300,121",Ode to My Father,12/25,2014,tt3910582,Ode to My Mother,2014,55,Biography,Documentary,,8.6,23,Georges Chamchoum,Souzan Basmaji
+91,"$2,225,098",Le Week-End,3/14,2014,tt2392326,Le Week-End,2013,93,Comedy,Drama,Romance,6.3,6868,Roger Michell,Hanif Kureishi
+92,"$2,025,328",The Immigrant,5/16,2014,tt1951181,The Immigrant,2013,120,Drama,Romance,,6.6,24863,James Gray,James Gray
+93,"$1,826,705",Tusk,9/19,2014,tt3099498,Tusk,2014,102,Comedy,Drama,Horror,5.4,36757,Kevin Smith,Kevin Smith
+94,"$1,436,243","Two Days, One Night",12/24,2014,tt2737050,"Two Days, One Night",2014,95,Drama,,,7.4,38762,Luc Dardenne,Jean-Pierre Dardenne
+95,"$1,375,769",Locke,4/25,2014,tt6103292,Lock,2016,92,Thriller,,,6.4,83,Smeep Kang,Pali Bhupinder Singh
+96,"$1,359,497",Force Majeure,10/24,2014,tt2121382,Force Majeure,2014,120,Comedy,Drama,,7.3,38016,Ruben ?stlund,Ruben ?stlund
+97,"$1,264,515",Jai Ho,1/24,2014,tt1188982,Jai Ho,2014,135,Action,Drama,,5.3,14230,Sohail Khan,A.R. Murugadoss
+98,"$1,232,018",Singham Returns,8/15,2014,tt2309764,Singham Returns,2014,142,Action,Drama,,5.7,5920,Rohit Shetty,Rohit Shetty
+99,"$1,189,612",Repentance,2/28,2014,tt2012665,Repentance,2013,90,Drama,Horror,Thriller,4.8,1985,Philippe Caland,Shintaro Shimosawa
+100,"$1,169,603",The Remaining,9/5,2014,tt2714380,The Remaining,2014,88,Horror,Thriller,,4.3,5930,Casey La Scala,Casey La Scala
+101,"$1,114,423",The Rover,6/13,2014,tt2345737,The Rover,2014,103,Action,Crime,Drama,6.4,38004,David Mich?d,Joel Edgerton
+102,"$1,066,981",Laggies,10/24,2014,tt2034031,Laggies,2014,99,Comedy,Drama,Romance,6.4,36090,Lynn Shelton,Andrea Seigel
+103,"$1,021,398",Third Person,6/20,2014,tt2343793,Third Person,2013,137,Drama,Romance,,6.4,23499,Paul Haggis,Paul Haggis
+104,"$1,021,398",Third Person,6/20,2014,tt4076360,Third Person,2015,57,Documentary,Drama,,8.5,8,Sharon Luzon,Sharon Luzon
+105,"$1,008,726",Enemy,3/14,2014,tt2316411,Enemy,2013,91,Mystery,Thriller,,6.9,127196,Denis Villeneuve,Jos¨¦ Saramago
+106,"$1,008,726",Enemy,3/14,2014,tt2941856,Enemmy,2013,\N,Action,Crime,Drama,5.3,187,Ashu Trikha,Dileep Shukla
+107,"$964,413",The Babadook,11/28,2014,tt2321549,The Babadook,2014,93,Drama,Horror,,6.8,151204,Jennifer Kent,Jennifer Kent
+108,"$846,704",Atlas Shrugged Part III: Who Is John Galt?,9/12,2014,tt2800038,Atlas Shrugged: Who Is John Galt?,2014,99,Drama,Mystery,Sci-Fi,4.4,2297,James Manera,James Manera
+109,"$817,192",Kochadaiiyaan,5/23,2014,tt2339505,Kochadaiiyaan,2014,124,Action,Animation,,6.6,4288,Soundarya R. Ashwin,K.S. Ravikumar
+110,"$785,896",Nymphomaniac: Volume I,3/21,2014,tt1937390,Nymphomaniac: Vol. I,2013,117,Drama,,,7.0,98182,Lars von Trier,Lars von Trier
+111,"$777,896",Breakup Buddies,10/3,2014,tt3890264,Breakup Buddies,2014,116,Comedy,Drama,Romance,6.4,1054,Hao Ning,Runnian Dong
+112,"$767,732",Palo Alto,5/9,2014,tt2479800,Palo Alto,2013,100,Drama,,,6.2,23932,Gia Coppola,Gia Coppola
+113,"$730,530",Ek Villain,6/27,2014,tt3175038,Ek Villain,2014,129,Action,Crime,Drama,6.4,13468,Mohit Suri,Tushar Hiranandani
+114,"$705,908","Men, Women & Children",10/1,2014,tt3179568,"Men, Women & Children",2014,119,Comedy,Drama,,6.7,26405,Jason Reitman,Jason Reitman
+115,"$587,774",The Disappearance of Eleanor Rigby,9/12,2014,tt3729920,The Disappearance of Eleanor Rigby: Them,2014,123,Drama,Romance,,6.3,10038,Ned Benson,Ned Benson
+116,"$549,185",23 Blast,10/24,2014,tt2304459,23 Blast,2014,98,Drama,Family,Sport,6.4,1452,Dylan Baker,Bram Hoover
+117,"$543,044",On Any Sunday: The Next Chapter,11/7,2014,tt2872570,On Any Sunday: The Next Chapter,2014,90,Action,Adventure,Documentary,7.1,332,Dana Brown,Dana Brown
+118,"$523,511",Dom Hemingway,4/2,2014,tt2402105,Dom Hemingway,2013,93,Comedy,Crime,Drama,6.2,23538,Richard Shepard,Richard Shepard
+119,"$513,447",The One I Love,8/22,2014,tt2756032,The One I Love,2014,91,Drama,Fantasy,Romance,7.1,28725,Charlie McDowell,Justin Lader
+120,"$507,463",The Two Faces of January,9/26,2014,tt1976000,The Two Faces of January,2014,96,Romance,Thriller,,6.2,25733,Hossein Amini,Hossein Amini
+121,"$444,179",In Secret,2/21,2014,tt0409379,In Secret,2013,107,Crime,Drama,Thriller,6.2,6456,Charlie Stratton,Neal Bell
+122,"$428,318",Beijing Love Story,2/14,2014,tt3505950,Beijing Love Story,2014,121,Drama,Romance,,5.9,282,Sicheng Chen,Sicheng Chen
+123,"$427,418",Cold in July,5/23,2014,tt1179031,Cold in July,2014,109,Crime,Thriller,,6.8,29917,Jim Mickle,Nick Damici
+124,"$390,099",Goodbye to Language,10/24,2014,tt2400275,Goodbye to Language,2014,70,Drama,Fantasy,,5.9,4582,Jean-Luc Godard,Jean-Luc Godard
+125,"$380,011",Humpty Sharma Ki Dulhania,7/11,2014,tt3678938,Humpty Sharma Ki Dulhania,2014,133,Comedy,Drama,Romance,6.1,8812,Shashank Khaitan,Shashank Khaitan
+126,"$340,911",Jimi: All Is By My Side,9/26,2014,tt2402085,Jimi: All Is by My Side,2013,118,Biography,Drama,Music,5.6,5279,John Ridley,John Ridley
+127,"$338,523",Chinese Puzzle,5/16,2014,tt1937118,Chinese Puzzle,2013,117,Comedy,Drama,Romance,7.0,11587,C¨¦dric Klapisch,C¨¦dric Klapisch
+128,"$334,616","Like Father, Like Son (2014)",1/17,2014,tt2331143,"Like Father, Like Son",2013,121,Drama,,,7.8,15429,Hirokazu Koreeda,Hirokazu Koreeda
+129,"$327,167",Nymphomaniac: Volume II,4/4,2014,tt1937390,Nymphomaniac: Vol. I,2013,117,Drama,,,7.0,98182,Lars von Trier,Lars von Trier
+130,"$317,324",On My Way,3/14,2014,tt2289538,On My Way,2013,116,Comedy,Drama,,6.4,1918,Emmanuelle Bercot,Emmanuelle Bercot
+131,"$306,917",A Five Star Life,7/18,2014,tt2261434,A Five Star Life,2013,85,Drama,Romance,,6.3,1894,Maria Sole Tognazzi,Ivan Cotroneo
+132,"$303,187",Mood Indigo,7/18,2014,tt2027140,Mood Indigo,2013,131,Comedy,Drama,Fantasy,6.5,13326,Michel Gondry,Michel Gondry
+133,"$293,680",The Dance of Reality,5/23,2014,tt2301592,The Dance of Reality,2013,133,Biography,Drama,Fantasy,7.5,5873,Alejandro Jodorowsky,Alejandro Jodorowsky
+134,"$288,545",The Last of Robin Hood,8/29,2014,tt2450440,The Last of Robin Hood,2013,94,Biography,Drama,Romance,5.7,1726,Richard Glatzer,Richard Glatzer
+135,"$276,497",The Unknown Known,4/4,2014,tt2390962,The Unknown Known,2013,103,Biography,Documentary,History,7.1,3391,Errol Morris,Errol Morris
+136,"$274,579",Main Tera Hero,4/4,2014,tt2762334,Main Tera Hero,2014,128,Action,Comedy,Romance,5.3,5978,David Dhawan,Tushar Hiranandani
+137,"$258,237",The Green Prince,9/12,2014,tt2304915,The Green Prince,2014,101,Biography,Documentary,,7.2,2385,Nadav Schirman,Nadav Schirman
+138,"$247,159",The Galapagos Affair: Satan Came to Eden,4/4,2014,tt2960450,The Galapagos Affair: Satan Came to Eden,2013,120,Biography,Crime,Documentary,6.8,1074,Dayna Goldfine,Dayna Goldfine
+139,"$230,880",Diplomacy,10/15,2014,tt3129564,Diplomacy,2014,84,Drama,War,,7.1,4100,Volker Schl?ndorff,Cyril Gely
+140,"$208,959",The Breakup Guru,6/27,2014,tt2282737,The Breakup Girl,2015,90,Comedy,Drama,,4.9,120,Stacy Sherman,Stacy Sherman
+141,"$208,693",Rob the Mob,3/21,2014,tt2481480,Rob the Mob,2014,104,Crime,Drama,,6.3,9718,Raymond De Felitta,Jonathan Fernandez
+142,"$202,348",Jinn,4/4,2014,tt1562899,Jinn,2014,97,Thriller,,,4.2,4073,Ajmal Zaheer Ahmad,Ajmal Zaheer Ahmad
+143,"$201,700",Bethlehem,3/7,2014,tt2915160,Bethlehem,2013,99,Drama,Thriller,,7.2,1792,Yuval Adler,Yuval Adler
+144,"$201,700",Bethlehem,3/7,2014,tt5065924,Bethlehem,2015,\N,Comedy,,,8.8,19,Michael Malone,Joshua Hull
+145,"$176,979",Anita,3/21,2014,tt2481202,Anita,2013,95,Documentary,History,,6.5,338,Freida Lee Mock,Freida Lee Mock
+146,"$172,343",That Demon Within,4/18,2014,tt3511542,That Demon Within,2014,111,Action,Crime,,6.0,1114,Dante Lam,Wai Lun Ng
+147,"$159,862",Sinbad: The Fifth Voyage,2/7,2014,tt1403862,Sinbad: The Fifth Voyage,2014,89,Action,Adventure,Fantasy,5.8,5021,Shahin Sean Solimon,Shahin Sean Solimon
+148,"$151,098",Dancing in Jaffa,4/11,2014,tt2125480,Dancing in Jaffa,2013,90,Documentary,Drama,Family,6.5,246,Hilla Medalia,Philip Shane
+149,"$143,178",Kids For Cash,2/7,2014,tt2925642,Kids for Cash,2013,102,Crime,Documentary,Drama,7.1,1766,Robert May,Robert May
+150,"$116,044",Zero Motivation,12/3,2014,tt3576084,Zero Motivation,2014,97,Comedy,Drama,,7.4,3371,Talya Lavie,Talya Lavie
+151,"$113,276",God the Father,10/17,2014,tt3722118,God the Father,2014,101,Documentary,,,6.3,634,Simon Fellows,Moshe Diamant
+152,"$113,067",The Liberator,10/3,2014,tt4518376,The Liberators,2016,61,Documentary,History,Mystery,7.5,10,Cassie Hay,Cassie Hay
+153,"$112,159",Penton: The John Penton Story,6/23,2014,tt3110272,Penton: The John Penton Story,2014,135,Adventure,Biography,Documentary,6.0,9,Todd Huffman,Todd Huffman
+154,"$110,763",The Overnighters,10/10,2014,tt3263996,The Overnighters,2014,102,Documentary,Drama,,7.5,2113,Jesse Moss,Jesse Moss
+155,"$106,771",Ivory Tower,6/13,2014,tt3263520,Ivory Tower,2014,90,Documentary,Family,History,7.0,1147,Andrew Rossi,Andrew Rossi
+156,"$102,931",The Golden Era,10/17,2014,tt3696086,The Golden Era,2014,177,Biography,Drama,Romance,6.4,818,Ann Hui,Qiang Li
+157,"$102,757",God Help the Girl,9/5,2014,tt2141751,God Help the Girl,2014,112,Drama,Musical,Romance,6.4,7628,Stuart Murdoch,Stuart Murdoch
+158,"$102,617",Coherence,6/20,2014,tt2866360,Coherence,2013,89,Mystery,Sci-Fi,Thriller,7.2,77929,James Ward Byrkit,James Ward Byrkit
+159,"$101,196",One Chance,10/10,2014,tt1196956,One Chance,2013,103,Biography,Comedy,Drama,6.8,9779,David Frankel,Justin Zackham
+160,"$101,074",Beyond Sight: The Derek Rabelo Story,3/7,2014,tt2933292,Beyond Sight: The Derek Rabelo Story,2014,84,Adventure,Documentary,Family,8.1,13,Bryan S. Jennings,Bryan S. Jennings
+161,"$92,384",Cuban Fury,4/11,2014,tt2390237,Cuban Fury,2014,98,Comedy,Romance,Sport,6.2,16277,James Griffiths,Jon Brown
+162,"$89,787",Pump,9/19,2014,tt1199779,Pup,2013,81,Adventure,Animation,Comedy,3.5,290,Francis Nielsen,Segundo Altolaguirre
+163,"$89,661",Breathe In,3/28,2014,tt1999987,Breathe In,2013,98,Drama,Romance,,6.4,12426,Drake Doremus,Drake Doremus
+164,"$84,464",Watermark,4/4,2014,tt3106868,Watermark,2013,92,Documentary,,,6.8,803,Jennifer Baichwal,Jennifer Baichwal
+165,"$72,078",Veil of Tears,3/28,2014,tt3163908,Veil of Tears,2014,90,Documentary,Drama,News,9.0,59,Kenny Saylors,Kenny Saylors
+166,"$70,918",The Better Angels,11/7,2014,tt2316868,The Better Angels,2014,95,Biography,Drama,History,6.1,1129,A.J. Edwards,A.J. Edwards
+167,"$64,065",Art of the Steal,3/14,2014,tt2172985,The Art of the Steal,2013,90,Comedy,Crime,Thriller,6.3,20930,Jonathan Sobol,Jonathan Sobol
+168,"$63,063",No Tears for the Dead,6/13,2014,tt3697566,No Tears for the Dead,2014,116,Action,Thriller,,6.8,4415,Jeong-beom Lee,Jeong-beom Lee
+169,"$61,067",Young and Beautiful,4/25,2014,tt2752200,Young & Beautiful,2013,95,Drama,Romance,,6.8,26839,Fran?ois Ozon,Fran?ois Ozon
+170,"$60,537",Siddharth,6/27,2014,tt2932606,Siddharth,2013,96,Drama,,,7.3,507,Richie Mehta,Maureen Dorey
+171,"$60,537",Siddharth,6/27,2014,tt5507266,Siddhartha,2015,149,Comedy,Drama,Romance,7.7,15,Prakash,Prakash
+172,"$59,209",Walk of Shame,5/2,2014,tt2463288,Walk of Shame,2014,95,Comedy,,,6.0,45788,Steven Brill,Steven Brill
+173,"$57,474",Borgman,6/6,2014,tt1954315,Borgman,2013,113,Drama,Mystery,Thriller,6.8,13536,Alex van Warmerdam,Alex van Warmerdam
+174,"$56,286",Big Men,3/14,2014,tt2789532,Big Men,2013,99,Documentary,,,7.2,482,Rachel Boynton,Rachel Boynton
+175,"$56,092",In Bloom,1/10,2014,tt2741806,In Bloom,2013,102,Drama,,,7.7,5876,Simon Gro?,Nana Ekvtimishvili
+176,"$54,030",Hateship Loveship,4/11,2014,tt2463512,Hateship Loveship,2013,104,Drama,Romance,,6.2,5668,Liza Johnson,Mark Poirier
+177,"$52,909",Ping Pong Summer,6/6,2014,tt2402985,Ping Pong Summer,2014,92,Comedy,Drama,,5.4,2432,Michael Tully,Michael Tully
+178,"$50,020",The Discoverers,5/16,2014,tt5155780,The Discovery,2017,102,Drama,Mystery,Romance,6.3,20255,Charlie McDowell,Justin Lader
+179,"$48,713",A Birder's Guide to Everything,3/21,2014,tt1582465,A Birder's Guide to Everything,2013,86,Adventure,Comedy,Drama,6.3,1834,Rob Meyer,Rob Meyer
+180,"$48,390",Decoding Annie Parker,5/2,2014,tt1464191,Decoding Annie Parker,2013,91,Drama,,,6.3,2641,Steven Bernstein,Adam Bernstein
+181,"$46,874",A Master Builder,7/23,2014,tt2276069,A Master Builder,2013,130,Drama,,,6.1,562,Jonathan Demme,Henrik Ibsen
+182,"$45,254",There's No Place Like Utopia,7/18,2014,tt3868452,There's No Place Like Utopia,2014,110,Documentary,,,5.8,125,Joel Gilbert,Joel Gilbert
+183,"$40,563",The Last Of The Unjust,2/7,2014,tt2340784,The Last of the Unjust,2013,220,Documentary,History,,7.1,535,Claude Lanzmann,Claude Lanzmann
+184,"$39,324",Child of God,8/1,2014,tt1951095,Child of God,2013,104,Crime,Drama,Thriller,5.5,3459,James Franco,James Franco
+185,"$37,473",Dead Snow 2: Red vs. Dead,10/10,2014,tt2832470,Dead Snow 2: Red vs. Dead,2014,100,Action,Comedy,Horror,6.9,19050,Tommy Wirkola,Tommy Wirkola
+186,"$34,768",Beneath the Harvest Sky,4/25,2014,tt2313896,Beneath the Harvest Sky,2013,116,Crime,Drama,Romance,6.2,856,Gita Pullapilly,Aron Gaudet
+187,"$34,411",Filth,5/30,2014,tt1450321,Filth,2013,97,Comedy,Crime,Drama,7.1,87718,Jon S. Baird,Jon S. Baird
+188,"$34,236",Rocks in my Pockets,9/3,2014,tt2961890,Rocks in My Pockets,2014,88,Animation,Comedy,Drama,7.7,515,Signe Baumane,Signe Baumane
+189,"$32,286",For a Woman,5/2,2014,tt2176786,For a Woman,2013,110,Drama,,,6.5,603,Diane Kurys,Diane Kurys
+190,"$32,188",The Hero of Color City,10/3,2014,tt0498351,The Hero of Color City,2014,77,Animation,Family,,4.1,394,Frank Gladstone,Jess Kedward
+191,"$32,111",Bird People,9/12,2014,tt5321088,Bad People,2016,80,Comedy,,,4.1,138,Alex Petrovitch,Alex Petrovitch
+192,"$30,662",Documented,5/2,2014,tt3057836,Documented,2013,89,Biography,Documentary,Family,6.6,125,Ann Raffaela Lupo,Jose Antonio Vargas
+193,"$30,312",Happy Christmas,7/25,2014,tt2955096,Happy Christmas,2014,82,Comedy,Drama,,5.5,6675,Joe Swanberg,Joe Swanberg
+194,"$30,160",Southern Baptist Sissies,2/21,2014,tt2729818,Southern Baptist Sissies,2013,138,Drama,,,7.2,157,Del Shores,Del Shores
+195,"$28,534",Why Don't You Play in Hell,11/7,2014,tt2409302,Why Don't You Play in Hell?,2013,129,Action,Comedy,,7.2,5639,Sion Sono,Sion Sono
+196,"$27,053",Last Weekend,8/29,2014,tt2435458,Last Weekend,2014,94,Comedy,Drama,,5.4,820,Tom Dolby,Tom Dolby
+197,"$936,662,225",Star Wars: The Force Awakens,12/18,2015,tt2488496,Star Wars: The Force Awakens,2015,136,Action,Adventure,Fantasy,8.0,734760,J.J. Abrams,Lawrence Kasdan
+198,"$652,270,625",Jurassic World,6/12,2015,tt0369610,Jurassic World,2015,124,Action,Adventure,Sci-Fi,7.0,487789,Colin Trevorrow,Rick Jaffa
+199,"$459,005,868",Avengers: Age of Ultron,5/1,2015,tt2395427,Avengers: Age of Ultron,2015,141,Action,Adventure,Sci-Fi,7.4,570130,Joss Whedon,Joss Whedon
+200,"$356,461,711",Inside Out,6/19,2015,tt2096673,Inside Out,2015,95,Adventure,Animation,Comedy,8.2,475324,Ronnie Del Carmen,Pete Docter
+201,"$353,007,020",Furious 7,4/3,2015,tt2820852,Furious 7,2015,137,Action,Crime,Thriller,7.2,318831,James Wan,Chris Morgan
+202,"$336,045,770",Minions,7/10,2015,tt2293640,Minions,2015,91,Action,Adventure,Animation,6.4,177328,Kyle Balda,Brian Lynch
+203,"$281,723,902",The Hunger Games: Mockingjay - Part 2,11/20,2015,tt1951265,The Hunger Games: Mockingjay - Part 1,2014,123,Action,Adventure,Sci-Fi,6.7,354773,Francis Lawrence,Peter Craig
+204,"$281,723,902",The Hunger Games: Mockingjay - Part 2,11/20,2015,tt1951266,The Hunger Games: Mockingjay - Part 2,2015,137,Action,Adventure,Sci-Fi,6.5,227244,Francis Lawrence,Peter Craig
+205,"$228,433,663",The Martian,10/2,2015,tt3659388,The Martian,2015,144,Adventure,Drama,Sci-Fi,8.0,613719,Ridley Scott,Drew Goddard
+206,"$180,202,163",Ant-Man,7/17,2015,tt0478970,Ant-Man,2015,117,Action,Adventure,Comedy,7.3,418352,Peyton Reed,Edgar Wright
+207,"$166,167,230",Fifty Shades of Grey,2/13,2015,tt2322441,Fifty Shades of Grey,2015,125,Drama,Romance,Thriller,4.1,262156,Sam Taylor-Johnson,Kelly Marcel
+208,"$162,994,032",The SpongeBob Movie: Sponge Out of Water,2/6,2015,tt2279373,The SpongeBob Movie: Sponge Out of Water,2015,92,Adventure,Animation,Comedy,6.0,40171,Mike Mitchell,Glenn Berger
+209,"$155,190,832",San Andreas,5/29,2015,tt2126355,San Andreas,2015,114,Action,Adventure,Drama,6.1,174587,Brad Peyton,Carlton Cuse
+210,"$153,636,354",Mad Max: Fury Road,5/15,2015,tt1392190,Mad Max: Fury Road,2015,120,Action,Adventure,Sci-Fi,8.1,705256,George Miller,George Miller
+211,"$150,357,137",Daddy's Home,12/25,2015,tt5657846,Daddy's Home 2,2017,100,Comedy,,,6.0,29217,Sean Anders,Sean Anders
+212,"$130,178,411",The Peanuts Movie,11/6,2015,tt2452042,The Peanuts Movie,2015,88,Adventure,Animation,Comedy,7.1,36721,Steve Martino,Craig Schulz
+213,"$128,261,724",Kingsman: The Secret Service,2/13,2015,tt2802144,Kingsman: The Secret Service,2014,129,Action,Adventure,Comedy,7.7,502603,Matthew Vaughn,Jane Goldman
+214,"$123,087,120",The Good Dinosaur,11/25,2015,tt1979388,The Good Dinosaur,2015,93,Adventure,Animation,Comedy,6.7,84823,Peter Sohn,Bob Peterson
+215,"$93,436,322",Tomorrowland,5/22,2015,tt1964418,Tomorrowland,2015,130,Action,Adventure,Family,6.5,152724,Brad Bird,Damon Lindelof
+216,"$89,760,956",Terminator: Genisys,7/1,2015,tt1340138,Terminator Genisys,2015,126,Action,Adventure,Sci-Fi,6.5,220176,Alan Taylor,Laeta Kalogridis
+217,"$89,256,424",Taken 3,1/9,2015,tt2446042,Taken 3,2014,108,Action,Thriller,,6.0,154526,Olivier Megaton,Luc Besson
+218,"$87,044,645",Sisters,12/18,2015,tt4246750,3 Sisters,2015,87,Horror,Thriller,,5.1,8,D¨¢ire McNab,D¨¢ire McNab
+219,"$80,080,379",Goosebumps,10/16,2015,tt1051904,Goosebumps,2015,103,Adventure,Comedy,Family,6.3,63866,Rob Letterman,Darren Lemke
+220,"$78,747,585",Pixels,7/24,2015,tt2120120,Pixels,2015,105,Action,Comedy,Fantasy,5.6,110696,Chris Columbus,Tim Herlihy
+221,"$72,313,754",Bridge of Spies,10/16,2015,tt3682448,Bridge of Spies,2015,142,Drama,History,Thriller,7.6,242473,Steven Spielberg,Matt Charman
+222,"$70,259,870",The Big Short,12/11,2015,tt3528764,The Big Shot,2017,89,Comedy,,,5.5,6,Demetrius Navarro,Enrico Natale
+223,"$65,206,105",The Visit,9/11,2015,tt2276258,The Visitant,2014,90,Thriller,,,4.5,317,Jon Binkowski,Jon Binkowski
+224,"$65,206,105",The Visit,9/11,2015,tt3567288,The Visit,2015,94,Horror,Thriller,,6.2,92388,M. Night Shyamalan,M. Night Shyamalan
+225,"$65,206,105",The Visit,9/11,2015,tt5085588,The Visitor,2016,119,Drama,Horror,Thriller,7.1,41,Jamil Hendi,Jamil Hendi
+226,"$64,460,211",The Wedding Ringer,1/16,2015,tt0884732,The Wedding Ringer,2015,101,Comedy,,,6.7,63008,Jeremy Garelick,Jeremy Garelick
+227,"$64,460,211",The Wedding Ringer,1/16,2015,tt5974454,The Wedding Ring,2016,96,Drama,Romance,,6.6,39,Rahmatou Ke?ta,Rahmatou Ke?ta
+228,"$62,575,678",Black Mass,9/18,2015,tt1355683,Black Mass,2015,123,Biography,Crime,Drama,6.9,146683,Scott Cooper,Mark Mallouk
+229,"$56,451,232",Joy,12/25,2015,tt2446980,Joy,2015,124,Drama,,,6.6,108873,David O. Russell,David O. Russell
+230,"$56,451,232",Joy,12/25,2015,tt6180144,Joy,2016,80,Drama,,,7.1,25,Chinguun Balkhjav,Chinguun Balkhjav
+231,"$44,482,410","McFarland, USA",2/20,2015,tt2097298,"McFarland, USA",2015,129,Biography,Drama,Sport,7.4,29019,Niki Caro,Christopher Cleveland
+232,"$43,047,372",The Night Before,11/20,2015,tt3530002,The Night Before,2015,101,Adventure,Comedy,Fantasy,6.4,52781,Jonathan Levine,Jonathan Levine
+233,"$43,047,372",The Night Before,11/20,2015,tt6006924,The Night Before,2017,81,Horror,,,5.2,116,Brett Bentman,Brett Bentman
+234,"$42,725,475",Krampus,12/4,2015,tt3850590,Krampus,2015,98,Comedy,Fantasy,Horror,6.2,49285,Michael Dougherty,Todd Casey
+235,"$38,322,743",Brooklyn,11/4,2015,tt3184798,Brooklyn,2014,83,Drama,Music,Musical,6.4,45,Pascal Tessaud,Pascal Tessaud
+236,"$35,423,380",The Boy Next Door,1/23,2015,tt3181822,The Boy Next Door,2015,91,Romance,Thriller,,4.7,32575,Rob Cohen,Barbara Curry
+237,"$34,580,201",Hot Pursuit,5/8,2015,tt2967224,Hot Pursuit,2015,87,Action,Comedy,Crime,5.1,42013,Anne Fletcher,David Feeney
+238,"$29,504,281",A Walk in the Woods,9/2,2015,tt1178665,A Walk in the Woods,2015,104,Adventure,Biography,Comedy,6.3,19870,Ken Kwapis,Michael Arndt
+239,"$27,740,955",Sinister 2,8/21,2015,tt2752772,Sinister 2,2015,97,Horror,Mystery,Thriller,5.3,36548,Ciar¨¢n Foy,Scott Derrickson
+240,"$26,501,323",The Woman in Black 2: Angel of Death,1/2,2015,tt2339741,The Woman in Black 2: Angel of Death,2014,98,Drama,Horror,Thriller,4.9,23135,Tom Harper,Jon Croker
+241,"$26,302,731",Love the Coopers,11/13,2015,tt2279339,Love the Coopers,2015,107,Comedy,Fantasy,Romance,5.7,15720,Jessie Nelson,Steven Rogers
+242,"$25,442,958",Ex Machina,4/10,2015,tt0470752,Ex Machina,2014,108,Drama,Mystery,Sci-Fi,7.7,381716,Alex Garland,Alex Garland
+243,"$25,020,758",In the Heart of the Sea,12/11,2015,tt1390411,In the Heart of the Sea,2015,122,Action,Adventure,Biography,6.9,99965,Ron Howard,Charles Leavitt
+244,"$22,764,410",The Gallows,7/10,2015,tt2309260,The Gallows,2015,81,Horror,Thriller,,4.2,16626,Travis Cluff,Chris Lofing
+245,"$22,764,410",The Gallows,7/10,2015,tt2474976,The Hallow,2015,97,Horror,,,5.7,12459,Corin Hardy,Corin Hardy
+246,"$22,348,241",Project Almanac,1/30,2015,tt2436386,Project Almanac,2015,106,Drama,Mystery,Sci-Fi,6.4,67453,Dean Israelite,Jason Pagan
+247,"$21,067,116",Aloha,5/29,2015,tt1243974,Aloha,2015,105,Comedy,Drama,Romance,5.4,48767,Cameron Crowe,Cameron Crowe
+248,"$19,375,982",Shaun the Sheep Movie,8/5,2015,tt2872750,Shaun the Sheep Movie,2015,85,Adventure,Animation,Comedy,7.4,29958,Richard Starzak,Mark Burton
+249,"$18,300,124",Paranormal Activity: The Ghost Dimension,10/23,2015,tt2473510,Paranormal Activity: The Ghost Dimension,2015,88,Horror,,,4.6,20513,Gregory Plotkin,Jason Pagan
+250,"$17,766,658",Steve Jobs,10/9,2015,tt2080374,Steve Jobs,2015,122,Biography,Drama,,7.2,129318,Danny Boyle,Aaron Sorkin
+251,"$17,737,646",Mr. Holmes,7/17,2015,tt3168230,Mr. Holmes,2015,104,Drama,Mystery,,6.9,54290,Bill Condon,Mitch Cullin
+252,"$17,506,470",Dope,6/19,2015,tt3850214,Dope,2015,103,Action,Comedy,Crime,7.2,72540,Rick Famuyiwa,Rick Famuyiwa
+253,"$16,432,322",Monkey Kingdom,4/17,2015,tt5841964,Monkey King,2016,98,Comedy,Drama,,4.9,67,Oliver Rihs,Thomas Hess
+254,"$16,029,670",The Transporter Refueled,9/4,2015,tt2938956,The Transporter Refueled,2015,96,Action,Adventure,Crime,5.2,33728,Camille Delamarre,Adam Cooper
+255,"$14,677,654",Room,10/16,2015,tt3170832,Room,2015,118,Drama,,,8.2,270535,Lenny Abrahamson,Emma Donoghue
+256,"$14,674,076",It Follows,3/13,2015,tt3235888,It Follows,2014,100,Horror,Mystery,,6.8,159692,David Robert Mitchell,David Robert Mitchell
+257,"$14,394,097",Woodlawn,10/16,2015,tt4183692,Woodlawn,2015,123,Drama,Sport,,6.5,5496,Jon Erwin,Jon Erwin
+258,"$13,651,946",Burnt,10/30,2015,tt2503944,Burnt,2015,101,Comedy,Drama,,6.6,86723,John Wells,Steven Knight
+259,"$12,711,491",Carol,11/20,2015,tt2402927,Carol,2015,118,Drama,Romance,,7.2,88892,Todd Haynes,Phyllis Nagy
+260,"$12,551,031",Love & Mercy,6/5,2015,tt0903657,Love & Mercy,2014,121,Biography,Drama,Music,7.4,29981,Bill Pohlad,Oren Moverman
+261,"$12,429,583",Strange Magic,1/23,2015,tt4191054,Strange Magic,2015,99,Adventure,Animation,Comedy,5.8,8452,Gary Rydstrom,David Berenbaum
+262,"$12,279,691",Self/Less,7/10,2015,tt2140379,Self/less,2015,117,Action,Mystery,Sci-Fi,6.5,73995,Tarsem Singh,?lex Pastor
+263,"$12,236,500",Far from the Madding Crowd,5/1,2015,tt2935476,Far from the Madding Crowd,2015,119,Drama,Romance,,7.1,37928,Thomas Vinterberg,Thomas Hardy
+264,"$12,227,722",The 33,11/13,2015,tt2006295,The 33,2015,127,Biography,Drama,History,6.9,29554,Patricia Riggen,Mikko Alanne
+265,"$11,114,018",The Danish Girl,11/27,2015,tt0810819,The Danish Girl,2015,119,Biography,Drama,History,7.1,129769,Tom Hooper,David Ebershoff
+266,"$10,137,502",The Walk,9/30,2015,tt2159988,The Walk,2015,89,Crime,Thriller,,6.7,121,Timothy Fielding,Timothy Fielding
+267,"$10,137,502",The Walk,9/30,2015,tt2931376,The Wake,2017,86,Horror,,,2.6,195,Faouzi Brahimi,Bryan Brewer
+268,"$10,021,175",The Lady in the Van,12/4,2015,tt3722070,The Lady in the Van,2015,104,Biography,Comedy,Drama,6.7,20058,Nicholas Hytner,Alan Bennett
+269,"$8,008,363",Dragon Ball Z: Resurrection 'F',8/4,2015,tt3819668,Dragon Ball Z: Resurrection 'F',2015,93,Action,Adventure,Animation,7.4,15878,Tadayoshi Yamamuro,Akira Toriyama
+270,"$8,005,980",Blackhat,1/16,2015,tt2157103,Blackhats,2015,104,Action,Drama,Thriller,6.7,24,Laron Austin,Martin L. Kelley
+271,"$8,005,980",Blackhat,1/16,2015,tt2717822,Blackhat,2015,133,Crime,Drama,Mystery,5.4,45992,Michael Mann,Morgan Davis Foehl
+272,"$7,696,134",Mortdecai,1/23,2015,tt3045616,Mortdecai,2015,107,Action,Comedy,Crime,5.5,56408,David Koepp,Eric Aronson
+273,"$7,587,485",While We're Young,3/27,2015,tt3896710,We Were Young,2015,86,Comedy,Drama,,5.4,233,Philippe Guillard,Philippe Guillard
+274,"$7,192,291",The Green Inferno,9/25,2015,tt2403021,The Green Inferno,2013,100,Adventure,Horror,Thriller,5.3,29945,Eli Roth,Guillermo Amoedo
+275,"$5,775,076",Victor Frankenstein,11/25,2015,tt1976009,Victor Frankenstein,2015,110,Drama,Horror,Sci-Fi,6.0,43198,Paul McGuigan,Max Landis
+276,"$4,871,263",Dilwale,12/17,2015,tt4535650,Dilwale,2015,158,Action,Comedy,Romance,5.3,26762,Rohit Shetty,Yunus Sajawal
+277,"$4,364,639",Prem Ratan Dhan Payo,11/12,2015,tt3595298,Prem Ratan Dhan Payo,2015,164,Action,Drama,Musical,4.7,14240,Sooraj R. Barjatya,Sooraj R. Barjatya
+278,"$4,247,285",45 Years,12/23,2015,tt3544082,45 Years,2015,91,Drama,Romance,,7.1,25549,Andrew Haigh,Andrew Haigh
+279,"$4,030,360",Irrational Man,7/17,2015,tt3715320,Irrational Man,2015,95,Comedy,Drama,,6.6,45978,Woody Allen,Woody Allen
+280,"$3,759,286",Anomalisa,12/30,2015,tt2401878,Anomalisa,2015,90,Animation,Comedy,Drama,7.3,51799,Charlie Kaufman,Charlie Kaufman
+281,"$3,591,417",We Are Your Friends,8/28,2015,tt3787590,We Are Your Friends,2015,96,Drama,Music,Romance,6.2,29362,Max Joseph,Max Joseph
+282,"$3,447,633",Learning to Drive,8/21,2015,tt3062976,Learning to Drive,2014,90,Comedy,Drama,Romance,6.4,5912,Isabel Coixet,Sarah Kernochan
+283,"$3,066,100",Dil Dhadakne Do,6/5,2015,tt4110568,Dil Dhadakne Do,2015,170,Comedy,Drama,Family,6.8,11374,Zoya Akhtar,Zoya Akhtar
+284,"$3,044,347",Tanu Weds Manu Returns,5/22,2015,tt2140465,Tanu Weds Manu Returns,2015,128,Comedy,Drama,Romance,7.7,21788,Anand L. Rai,Himanshu Sharma
+285,"$3,020,664",Rock The Kasbah,10/23,2015,tt3164256,Rock the Kasbah,2015,106,Comedy,Music,War,5.5,8655,Barry Levinson,Mitch Glazer
+286,"$2,541,854",Truth,10/16,2015,tt1454700,Truth,2017,80,Drama,History,Thriller,7.4,688,Dianna Collett,Paul Collett
+287,"$2,541,854",Truth,10/16,2015,tt2459920,Truth,2013,94,Drama,Romance,Thriller,5.0,469,Rob Moretti,Rob Moretti
+288,"$2,500,431",Mistress America,8/14,2015,tt2872462,Mistress America,2015,84,Comedy,Drama,,6.7,20870,Noah Baumbach,Noah Baumbach
+289,"$2,184,640",Jem and the Holograms,10/23,2015,tt3614530,Jem and the Holograms,2015,118,Adventure,Drama,Fantasy,4.1,6044,Jon M. Chu,Ryan Landels
+290,"$1,872,994",Legend,11/20,2015,tt3569230,Legend,2015,132,Biography,Crime,Drama,7.0,124079,Brian Helgeland,Brian Helgeland
+291,"$1,872,994",Legend,11/20,2015,tt3894294,Legends,2014,\N,Drama,Fantasy,Mystery,6.5,68,Jos¨¦ Pepe Boj¨®rquez,Jos¨¦ Pepe Boj¨®rquez
+292,"$1,851,517",Clouds of Sils Maria,4/10,2015,tt2452254,Clouds of Sils Maria,2014,124,Drama,,,6.7,22943,Olivier Assayas,Olivier Assayas
+293,"$1,822,250",Testament of Youth,6/5,2015,tt1441953,Testament of Youth,2014,129,Biography,Drama,History,7.3,20641,James Kent,Vera Brittain
+294,"$1,801,807",Piku,5/8,2015,tt3767372,Piku,2015,123,Comedy,Drama,,7.6,21767,Shoojit Sircar,Juhi Chaturvedi
+295,"$1,777,043",Son of Saul,12/18,2015,tt3808342,Son of Saul,2015,107,Drama,War,,7.5,35061,L¨¢szl¨® Nemes,L¨¢szl¨® Nemes
+296,"$1,647,416",The Letters,12/4,2015,tt1445208,The Letters,2014,114,Drama,,,6.0,797,William Riead,William Riead
+297,"$1,647,416",The Letters,12/4,2015,tt5278914,The Settlers,2016,107,Documentary,,,7.6,140,Shimon Dotan,Oron Adar
+298,"$1,430,655",Infinitely Polar Bear,6/19,2015,tt1969062,Infinitely Polar Bear,2014,90,Comedy,Drama,Romance,7.0,13034,Maya Forbes,Maya Forbes
+299,"$1,411,927",99 Homes,9/25,2015,tt2891174,99 Homes,2014,112,Drama,,,7.1,24246,Ramin Bahrani,Ramin Bahrani
+300,"$1,388,365",Welcome Back,9/4,2015,tt3159708,Welcome Back,2015,152,Action,Comedy,Crime,4.2,4696,Anees Bazmee,Anees Bazmee
+301,"$1,348,456",The Cokeville Miracle,6/5,2015,tt3877296,The Cokeville Miracle,2015,94,Drama,Family,History,5.0,1721,T.C. Christensen,T.C. Christensen
+302,"$1,236,094",Beyond the Mask,4/6,2015,tt1207922,Beyond the Mat,2013,\N,Drama,Sport,,7.2,84,Van M. Pham,Erik Martinez
+303,"$1,236,094",Beyond the Mask,4/6,2015,tt3165236,Beyond the Dark,2014,105,Horror,Sci-Fi,Thriller,3.1,67,Matthew Douglas Grzeszak,Matthew Douglas Grzeszak
+304,"$1,171,559",Black Sea,1/23,2015,tt2261331,Black Sea,2014,114,Adventure,Drama,Thriller,6.4,29693,Kevin Macdonald,Dennis Kelly
+305,"$1,156,000",Where Hope Grows,5/15,2015,tt3200980,Where Hope Grows,2014,95,Drama,Family,,6.6,2591,Chris Dowling,Chris Dowling
+306,"$1,110,522",The Overnight,6/19,2015,tt3263996,The Overnighters,2014,102,Documentary,Drama,,7.5,2113,Jesse Moss,Jesse Moss
+307,"$1,028,953",Dior and I,4/10,2015,tt3539664,Dior and I,2014,90,Documentary,,,7.3,2928,Fr¨¦d¨¦ric Tcheng,Fr¨¦d¨¦ric Tcheng
+308,"$1,020,921",5 Flights Up,5/8,2015,tt2933544,5 Flights Up,2014,88,Drama,,,6.2,6834,Richard Loncraine,Charlie Peters
+309,"$1,004,105",Faith of Our Fathers,7/1,2015,tt1322393,Faith of Our Fathers,2015,96,Drama,,,3.5,513,Carey Scott,Kevin Downes
+310,"$988,150",Gett: The Trial of Viviane Amsalem,2/13,2015,tt3062880,Gett: The Trial of Viviane Amsalem,2014,115,Drama,,,7.7,5083,Ronit Elkabetz,Ronit Elkabetz
+311,"$944,193",The 100-Year Old Man Who Climbed Out the Window and Disappeared,5/1,2015,tt2113681,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,2013,114,Adventure,Comedy,,7.1,32755,Felix Herngren,Felix Herngren
+312,"$892,133",ABCD (Any Body Can Dance) 2,6/19,2015,tt2321163,ABCD (Any Body Can Dance),2013,160,Drama,Musical,,6.4,5413,Remo,Amit Aryan
+313,"$845,464",Mustang,11/20,2015,tt3966404,Mustang,2015,97,Drama,,,7.6,27350,Deniz Gamze Erg¨¹ven,Deniz Gamze Erg¨¹ven
+314,"$819,431",Sleeping with Other People,9/11,2015,tt3165612,Sleeping with Other People,2015,101,Comedy,Drama,Romance,6.5,32191,Leslye Headland,Leslye Headland
+315,"$732,655",Once I Was a Beehive,8/14,2015,tt4002772,Once I Was a Beehive,2015,119,Comedy,Drama,Family,6.3,873,Maclain Nelson,Maclain Nelson
+316,"$702,354",Tangerine,7/10,2015,tt3824458,Tangerine,2015,88,Comedy,Crime,Drama,7.1,19641,Sean Baker,Sean Baker
+317,"$694,600",Red Army,1/23,2015,tt3264102,Red Army,2014,84,Biography,Documentary,History,7.6,5809,Gabe Polsky,Gabe Polsky
+318,"$660,561",The Stanford Prison Experiment,7/17,2015,tt0420293,The Stanford Prison Experiment,2015,122,Biography,Drama,History,6.9,27191,Kyle Patrick Alvarez,Tim Talbott
+319,"$632,542",The Assassin,10/16,2015,tt3508840,The Assassin,2015,105,Action,Drama,History,6.3,12985,Hsiao-Hsien Hou,Cheng Ah
+320,"$623,383","Kumiko, The Treasure Hunter",3/18,2015,tt3263614,"Kumiko, the Treasure Hunter",2014,105,Drama,,,6.6,10251,David Zellner,David Zellner
+321,"$608,852",Welcome to Me,5/1,2015,tt2788716,Welcome to Me,2014,87,Comedy,Drama,,5.9,16173,Shira Piven,Eliot Laurence
+322,"$560,592",Jimmy's Hall,7/3,2015,tt3110960,Jimmy's Hall,2014,109,Biography,Drama,History,6.7,4934,Ken Loach,Paul Laverty
+323,"$524,451",The Last - Naruto the Movie,2/20,2015,tt3717532,The Last: Naruto the Movie,2014,112,Action,Adventure,Animation,7.7,8121,Tsuneo Kobayashi,Masashi Kishimoto
+324,"$521,794",Shaandaar,10/22,2015,tt4007558,Shaandaar,2015,144,Comedy,Drama,Romance,3.7,3814,Vikas Bahl,Vikas Bahl
+325,"$478,595",Brotherly Love,4/24,2015,tt3262990,Brotherly Love,2015,89,Drama,,,6.7,1357,Jamal Hill,Jamal Hill
+326,"$478,595",Brotherly Love,4/24,2015,tt6096190,Brotherly Love,2017,118,Drama,,,7.7,7,Anthony J. Caruso,Anthony J. Caruso
+327,"$449,523",Attack on Titan: Part 1,9/30,2015,tt2072230,Attack on Titan: Part 1,2015,98,Action,Adventure,Drama,5.1,10216,Shinji Higuchi,Hajime Isayama
+328,"$449,523",Attack on Titan: Part 1,9/30,2015,tt4294052,Attack on Titan: Part 2,2015,87,Action,Drama,Fantasy,4.8,3339,Shinji Higuchi,Hajime Isayama
+329,"$425,831",Listen to Me Marlon,7/29,2015,tt4145178,Listen to Me Marlon,2015,103,Biography,Documentary,,8.2,5742,Stevan Riley,Stevan Riley
+330,"$409,166",Badlapur,2/20,2015,tt3678782,Badlapur,2015,134,Action,Crime,Drama,7.5,17017,Sriram Raghavan,Massimo Carlotto
+331,"$405,917",The Hunting Ground,2/27,2015,tt4185572,The Hunting Ground,2015,103,Documentary,,,7.4,5181,Kirby Dick,Kirby Dick
+332,"$350,741",Maps to the Stars,2/27,2015,tt2172584,Maps to the Stars,2014,111,Comedy,Drama,,6.2,32692,David Cronenberg,Bruce Wagner
+333,"$316,100",David and Goliath,4/3,2015,tt3055246,David and Goliath,2013,\N,Drama,,,4.3,58,Rajeev Nath,Anoop Menon
+334,"$316,100",David and Goliath,4/3,2015,tt3962210,David and Goliath,2015,92,Action,Adventure,Drama,4.7,1674,Timothy A. Chey,Timothy A. Chey
+335,"$305,934",Attack on Titan: Part 2,10/20,2015,tt2072230,Attack on Titan: Part 1,2015,98,Action,Adventure,Drama,5.1,10216,Shinji Higuchi,Hajime Isayama
+336,"$305,934",Attack on Titan: Part 2,10/20,2015,tt4294052,Attack on Titan: Part 2,2015,87,Action,Drama,Fantasy,4.8,3339,Shinji Higuchi,Hajime Isayama
+337,"$282,358",White God,3/27,2015,tt2844798,White God,2014,121,Drama,Fantasy,Horror,6.9,12666,Korn¨¦l Mundrucz¨®,Korn¨¦l Mundrucz¨®
+338,"$277,528",In the Name of my Daughter,5/15,2015,tt2929890,In the Name of My Daughter,2014,116,Crime,Drama,,6.1,1284,Andr¨¦ T¨¦chin¨¦,C¨¦dric Anger
+339,"$260,430",Hitchcock/Truffaut,12/2,2015,tt3748512,Hitchcock/Truffaut,2015,79,Documentary,,,7.4,4297,Kent Jones,Kent Jones
+340,"$234,573",20 Once Again,1/16,2015,tt5578722,Once Again,2016,122,Drama,Family,Romance,7.5,57,Adoor Gopalakrishnan,Adoor Gopalakrishnan
+341,"$229,094",Slow West,5/20,2015,tt3205376,Slow West,2015,84,Western,,,6.9,34681,John Maclean,John Maclean
+342,"$208,588",Dark Places,8/7,2015,tt2402101,Dark Places,2015,113,Action,Drama,Mystery,6.2,34889,Gilles Paquet-Brenner,Gilles Paquet-Brenner
+343,"$191,533",Gemma Bovery,5/29,2015,tt2788556,Gemma Bovery,2014,99,Comedy,Drama,Romance,6.4,4647,Anne Fontaine,Pascal Bonitzer
+344,"$190,980",The Connection,5/15,2015,tt2935564,The Connection,2014,135,Action,Crime,Thriller,7.1,8275,C¨¦dric Jimenez,Audrey Diwan
+345,"$176,391",Serena,3/27,2015,tt1247690,Serena,2014,109,Drama,Romance,,5.4,21872,Susanne Bier,Christopher Kyle
+346,"$173,564",The Young & Prodigious T.S. Spivet,7/31,2015,tt1981107,The Young and Prodigious T.S. Spivet,2013,105,Action,Adventure,Comedy,7.1,14178,Jean-Pierre Jeunet,Jean-Pierre Jeunet
+347,"$172,860",The Farewell Party,5/22,2015,tt3163304,The Farewell Party,2014,95,Comedy,Drama,Romance,7.1,1621,Tal Granit,Tal Granit
+348,"$163,406",The Last Women Standing,11/11,2015,tt2933338,Last Woman Standing,2013,88,Documentary,Sport,,8.6,22,Juliet Lammers,Juliet Lammers
+349,"$162,685",5 to 7,4/3,2015,tt2486678,5 to 7,2014,95,Comedy,Drama,Romance,7.1,14662,Victor Levin,Victor Levin
+350,"$161,820",After The Ball,2/27,2015,tt2815966,After the Fall,2014,110,Crime,Drama,,5.1,760,Saar Klein,Joe Conway
+351,"$161,820",After The Ball,2/27,2015,tt3717016,After the Ball,2015,101,Comedy,,,5.9,2368,Sean Garrity,Jason Sherman
+352,"$161,129",3 Hearts,3/13,2015,tt2822742,3 Hearts,2014,108,Drama,Romance,,5.9,1932,Beno?t Jacquot,Julien Boivent
+353,"$158,549",Human Capital,1/9,2015,tt2465578,Human Capital,2013,111,Drama,,,7.3,9593,Paolo Virz¨¬,Stephen Amidon
+354,"$157,768",Hell and Back,10/2,2015,tt2141773,Hell and Back,2015,86,Adventure,Animation,Comedy,5.4,3873,Tom Gianas,Tom Gianas
+355,"$155,575",Experimenter,10/16,2015,tt3726704,Experimenter,2015,98,Biography,Drama,History,6.6,14279,Michael Almereyda,Michael Almereyda
+356,"$146,754",The New Girlfriend,9/18,2015,tt3184934,The New Girlfriend,2014,108,Drama,,,6.6,6128,Fran?ois Ozon,Ruth Rendell
+357,"$145,427",The Last 5 Years,2/13,2015,tt2474024,The Last Five Years,2014,94,Comedy,Drama,Musical,5.9,8016,Richard LaGravenese,Jason Robert Brown
+358,"$144,501",Tangerines,4/17,2015,tt3824458,Tangerine,2015,88,Comedy,Crime,Drama,7.1,19641,Sean Baker,Sean Baker
+359,"$143,101",Manglehorn,6/19,2015,tt2893490,Manglehorn,2014,97,Drama,,,5.6,6120,David Gordon Green,Paul Brad Logan
+360,"$135,392",La Sapienza,3/20,2015,tt3182590,La Sapienza,2014,101,Drama,,,6.5,777,Eug¨¨ne Green,Eug¨¨ne Green
+361,"$134,552",Cop Car,8/7,2015,tt3813310,Cop Car,2015,88,Crime,Thriller,,6.3,25261,Jon Watts,Jon Watts
+362,"$129,480",Boy and the World,12/11,2015,tt3183630,Boy and the World,2013,80,Adventure,Animation,Family,7.6,4997,Al¨º Abreu,Al¨º Abreu
+363,"$113,169",Road Hard,3/6,2015,tt3110770,Road Hard,2015,98,Comedy,,,6.1,1536,Adam Carolla,Adam Carolla
+364,"$104,507",Results,5/29,2015,tt3824412,Results,2015,105,Comedy,Romance,,5.4,5271,Andrew Bujalski,Andrew Bujalski
+365,"$101,438",Man From Reno,3/27,2015,tt2287170,Man from Reno,2014,111,Crime,Drama,Mystery,6.8,1559,Dave Boyle,Dave Boyle
+366,"$91,462",Legends from the Sky,1/30,2015,tt3625220,Legends from the Sky,2015,85,Sci-Fi,,,6.7,53,Travis Holt Hamilton,Travis Holt Hamilton
+367,"$91,302",Christmas Eve,12/4,2015,tt3703148,Christmas Eve,2015,95,Comedy,,,5.0,1851,Mitch Davis,Mitch Davis
+368,"$90,777",Beasts of No Nation,10/16,2015,tt1365050,Beasts of No Nation,2015,137,Drama,War,,7.8,56555,Cary Joji Fukunaga,Cary Joji Fukunaga
+369,"$88,097",Sunshine Superman,5/22,2015,tt1322313,Sunshine Superman,2014,100,Biography,Documentary,Sport,6.9,1108,Marah Strauch,Marah Strauch
+370,"$79,800",Nasty Baby,10/23,2015,tt3121332,Nasty Baby,2015,101,Drama,,,5.6,1972,Sebasti¨¢n Silva,Sebasti¨¢n Silva
+371,"$78,400",Blackbird,4/24,2015,tt2963866,Blackbird,2013,90,Drama,,,7.2,66,Jamie Chambers,Jamie Chambers
+372,"$78,400",Blackbird,4/24,2015,tt3181920,Blackbird,2014,99,Drama,,,5.6,833,Patrik-Ian Polk,Rikki Beadle Blair
+373,"$73,378",The Wonders,10/30,2015,tt3044244,The Wonders,2014,110,Drama,,,6.6,3380,Alice Rohrwacher,Alice Rohrwacher
+374,"$70,958",Freaks of Nature,10/30,2015,tt2123265,Freak of Nurture,2015,99,Drama,Horror,Thriller,7.2,26,John Hales,Carole Budgen
+375,"$68,372",Predestination,1/9,2015,tt2397535,Predestination,2014,97,Drama,Mystery,Sci-Fi,7.5,207450,Michael Spierig,Michael Spierig
+376,"$65,460",Eden,6/19,2015,tt3032282,Eden,2014,90,Drama,Thriller,,4.7,2335,Shyam Madiraju,Mark Mavrothalasitis
+377,"$61,044",Dark Star: H.R. Giger's World,5/15,2015,tt4074502,Dark Star: H.R. Giger's World,2014,95,Biography,Documentary,,7.0,895,Belinda Sallin,Belinda Sallin
+378,"$58,738",I Smile Back,10/23,2015,tt3640682,I Smile Back,2015,85,Drama,,,6.1,4324,Adam Salky,Paige Dylan
+379,"$54,275",The Search for General Tso,1/2,2015,tt3576038,The Search for General Tso,2014,71,Comedy,Documentary,History,6.9,1524,Ian Cheney,Ian Cheney
+380,"$54,030",Beloved Sisters,1/9,2015,tt2790236,Beloved Sisters,2014,138,Drama,History,Romance,6.1,1172,Dominik Graf,Dominik Graf
+381,"$53,086",Aloft,5/22,2015,tt2494384,Aloft,2014,112,Drama,,,5.3,2713,Claudia Llosa,Claudia Llosa
+382,"$48,869",The Seven Five,5/8,2015,tt3263548,The Seventh Fire,2015,76,Documentary,Drama,Family,6.0,135,Jack Pettibone Riccobono,Jack Pettibone Riccobono
+383,"$45,895",Beyond the Reach,4/17,2015,tt2911668,Beyond the Reach,2014,91,Thriller,,,5.6,8119,Jean-Baptiste L¨¦onetti,Stephen Susco
+384,"$44,903",The Salvation,2/27,2015,tt2720680,The Salvation,2014,92,Drama,Western,,6.7,30486,Kristian Levring,Anders Thomas Jensen
+385,"$44,840",River of Fundament,12/4,2015,tt3529612,River of Fundament,2014,319,Drama,,,7.4,135,Matthew Barney,Matthew Barney
+386,"$44,235",Madame Bovary,6/12,2015,tt2334733,Madame Bovary,2014,118,Drama,,,5.7,5948,Sophie Barthes,Felipe Marino
+387,"$42,937",Charlie's Country,6/5,2015,tt1196948,Charlie Countryman,2013,103,Comedy,Drama,Romance,6.4,24151,Fredrik Bond,Matt Drake
+388,"$42,937",Charlie's Country,6/5,2015,tt3244512,Charlie's Country,2013,108,Drama,,,7.2,1529,Rolf de Heer,David Gulpilil
+389,"$41,297",Queen and Country,2/18,2015,tt2392810,Queen & Country,2014,114,Drama,,,6.3,1185,John Boorman,John Boorman
+390,"$41,149",Love Thy Nature,2/19,2015,tt3244466,Love Thy Nature,2014,76,Documentary,,,7.7,88,Sylvie Rokab,Sylvie Rokab
+391,"$40,119",What Our Fathers Did: A Nazi Legacy,11/6,2015,tt4668808,What Our Fathers Did: A Nazi Legacy,2015,96,Documentary,History,,7.0,981,David Evans,Philippe Sands
+392,"$39,347",Prophet's Prey,9/18,2015,tt4188202,Prophet's Prey,2015,90,Biography,Documentary,History,7.3,1167,Amy Berg,Amy Berg
+393,"$37,151",Before We Go,9/4,2015,tt0443465,Before We Go,2014,95,Comedy,Drama,Romance,6.8,37722,Chris Evans,Ronald Bass
+394,"$36,336",Knock Knock,10/9,2015,tt3605418,Knock Knock,2015,99,Drama,Horror,Thriller,4.9,61693,Eli Roth,Eli Roth
+395,"$34,866",Wild City,7/31,2015,tt3801934,Wild City,2015,120,Action,Crime,Thriller,5.7,679,Ringo Lam,Ringo Lam
+396,"$34,404",The Forbidden Room,10/7,2015,tt3066630,The Forbidden Room,2015,130,Comedy,Mystery,,6.2,2475,Evan Johnson,Kim Morgan
+397,"$31,309",Don Verdean,12/11,2015,tt3534282,Don Verdean,2015,90,Adventure,Comedy,Drama,5.4,3736,Jared Hess,Jared Hess
+398,"$30,186",Runoff,6/26,2015,tt2094034,Runoff,2014,90,Drama,,,5.8,311,Kimberly Levin,Kimberly Levin
+399,"$28,782",Americons,1/23,2015,tt2293060,Americons,2017,89,Action,Biography,Crime,3.9,165,Theo Avgerinos,Beau Martin Williams
+400,"$28,208","Like Sunday, Like Rain",3/6,2015,tt3104818,"Like Sunday, Like Rain",2014,104,Drama,Music,,6.9,3773,Frank Whaley,Frank Whaley
+401,"$27,166",The Keeping Room,9/25,2015,tt2488778,The Keeping Room,2014,95,Drama,Western,,6.0,5014,Daniel Barber,Julia Hart
+402,"$26,747",Tap World,7/10,2015,tt4669204,Tap World,2015,72,Documentary,History,Music,7.0,49,Dean Hargrove,Dean Hargrove
+403,"$532,177,324",Rogue One: A Star Wars Story,12/16,2016,tt3748528,Rogue One: A Star Wars Story,2016,133,Action,Adventure,Sci-Fi,7.8,418410,Gareth Edwards,Chris Weitz
+404,"$486,295,561",Finding Dory,6/17,2016,tt2277860,Finding Dory,2016,97,Adventure,Animation,Comedy,7.3,188995,Andrew Stanton,Andrew Stanton
+405,"$408,084,349",Captain America: Civil War,5/6,2016,tt3498820,Captain America: Civil War,2016,147,Action,Adventure,Sci-Fi,7.8,484919,Anthony Russo,Christopher Markus
+406,"$363,070,709",Deadpool,2/12,2016,tt1431045,Deadpool,2016,108,Action,Adventure,Comedy,8.0,714652,Tim Miller,Rhett Reese
+407,"$325,100,054",Suicide Squad,8/5,2016,tt1386697,Suicide Squad,2016,123,Action,Adventure,Fantasy,6.1,473256,David Ayer,David Ayer
+408,"$270,395,425",Sing,12/21,2016,tt3031966,Swing,2014,\N,Comedy,Drama,Music,6.0,402,Csaba Fazekas,Csaba Fazekas
+409,"$234,037,575",Fantastic Beasts and Where To Find Them,11/18,2016,tt3183660,Fantastic Beasts and Where to Find Them,2016,133,Adventure,Family,Fantasy,7.4,300254,David Yates,J.K. Rowling
+410,"$232,641,920",Doctor Strange,11/4,2016,tt1211837,Doctor Strange,2016,115,Action,Adventure,Fantasy,7.5,400723,Scott Derrickson,Jon Spaihts
+411,"$162,434,410",Jason Bourne,7/29,2016,tt4196776,Jason Bourne,2016,123,Action,Thriller,,6.6,173658,Paul Greengrass,Paul Greengrass
+412,"$151,101,803",La La Land,12/9,2016,tt3783958,La La Land,2016,128,Comedy,Drama,Music,8.1,365871,Damien Chazelle,Damien Chazelle
+413,"$126,643,061",The Legend of Tarzan,7/1,2016,tt0918940,The Legend of Tarzan,2016,110,Action,Adventure,Drama,6.3,136800,David Yates,Adam Cozad
+414,"$125,070,033",Sully,9/9,2016,tt3263904,Sully,2016,96,Biography,Drama,,7.5,175321,Clint Eastwood,Todd Komarnicki
+415,"$107,509,366",The Angry Birds Movie,5/20,2016,tt1985949,The Angry Birds Movie,2016,97,Action,Adventure,Animation,6.3,63595,Clay Kaytis,Jon Vitti
+416,"$102,470,008",The Conjuring 2,6/10,2016,tt1457767,The Conjuring,2013,112,Horror,Mystery,Thriller,7.5,357013,James Wan,Chad Hayes
+417,"$102,470,008",The Conjuring 2,6/10,2016,tt3065204,The Conjuring 2,2016,134,Horror,Mystery,Thriller,7.4,164638,James Wan,Chad Hayes
+418,"$100,546,139",Arrival,11/11,2016,tt3779852,Arrivals,2016,\N,Drama,,,7.3,6,Wilf Varvill,Wilf Varvill
+419,"$91,221,830",Ride Along 2,1/15,2016,tt1408253,Ride Along,2014,99,Action,Comedy,Crime,6.2,88274,Tim Story,Greg Coolidge
+420,"$91,221,830",Ride Along 2,1/15,2016,tt2869728,Ride Along 2,2016,102,Action,Comedy,,5.9,43610,Tim Story,Phil Hay
+421,"$89,217,875",Don't Breathe,8/26,2016,tt3958034,Don't Breathe,2014,86,Documentary,,,6.8,34,Nino Kirtadze,Nino Kirtadze
+422,"$87,242,834",Miss Peregrine's Home for Peculiar Children,9/30,2016,tt1935859,Miss Peregrine's Home for Peculiar Children,2016,127,Adventure,Drama,Family,6.7,126965,Tim Burton,Ransom Riggs
+423,"$86,260,045",The Accountant,10/14,2016,tt2140479,The Accountant,2016,128,Action,Crime,Drama,7.4,208861,Gavin O'Connor,Bill Dubuque
+424,"$73,206,343",Boo! A Madea Halloween,10/21,2016,tt5325452,Boo! A Madea Halloween,2016,103,Comedy,Horror,,4.6,5985,Tyler Perry,Tyler Perry
+425,"$72,082,998",10 Cloverfield Lane,3/11,2016,tt1179933,10 Cloverfield Lane,2016,103,Drama,Horror,Mystery,7.2,233616,Dan Trachtenberg,Josh Campbell
+426,"$67,209,615",Hacksaw Ridge,11/4,2016,tt2119532,Hacksaw Ridge,2016,139,Biography,Drama,History,8.2,312711,Mel Gibson,Robert Schenkkan
+427,"$65,075,540",Now You See Me 2,6/10,2016,tt3110958,Now You See Me 2,2016,129,Action,Adventure,Comedy,6.5,187649,Jon M. Chu,Ed Solomon
+428,"$59,689,605",My Big Fat Greek Wedding 2,3/25,2016,tt3760922,My Big Fat Greek Wedding 2,2016,94,Comedy,Romance,,6.0,23599,Kirk Jones,Nia Vardalos
+429,"$55,124,043",The Shallows,6/24,2016,tt2076959,The Shadows,2014,86,Drama,Fantasy,,5.0,28,Colin Downey,Colin Downey
+430,"$55,124,043",The Shallows,6/24,2016,tt2309260,The Gallows,2015,81,Horror,Thriller,,4.2,16626,Travis Cluff,Chris Lofing
+431,"$54,647,948",Assassin's Creed,12/21,2016,tt2094766,Assassin's Creed,2016,115,Action,Adventure,Fantasy,5.8,150408,Justin Kurzel,Michael Lesslie
+432,"$51,738,905",Lion,11/25,2016,tt5480036,Lion,2017,12,Horror,,,7.4,10,Davide Melini,Davide Melini
+433,"$47,695,371",Manchester by the Sea,11/18,2016,tt4034228,Manchester by the Sea,2016,137,Drama,,,7.8,185502,Kenneth Lonergan,Kenneth Lonergan
+434,"$47,365,290",Warcraft,6/10,2016,tt0803096,Warcraft,2016,123,Action,Adventure,Fantasy,6.9,208492,Duncan Jones,Charles Leavitt
+435,"$46,009,673",Mike and Dave Need Wedding Dates,7/8,2016,tt2823054,Mike and Dave Need Wedding Dates,2016,98,Adventure,Comedy,Romance,6.0,67186,Jake Szymanski,Andrew Jay Cohen
+436,"$43,034,523",War Dogs,8/19,2016,tt2005151,War Dogs,2016,114,Comedy,Crime,Drama,7.1,135297,Todd Phillips,Stephen Chin
+437,"$40,098,064",Allied,11/23,2016,tt3640424,Allied,2016,124,Action,Drama,Romance,7.1,108651,Robert Zemeckis,Steven Knight
+438,"$38,583,626",Nerve,7/27,2016,tt2495778,Nerve,2013,86,Drama,Mystery,Thriller,4.7,111,Sebastien Guy,Sebastien Guy
+439,"$38,583,626",Nerve,7/27,2016,tt3531824,Nerve,2016,96,Action,Adventure,Crime,6.6,89858,Ariel Schulman,Jessica Sharzer
+440,"$36,880,033",Risen,2/19,2016,tt3213622,Rise,2014,104,Crime,Drama,,5.6,546,Mack Lindon,Mack Lindon
+441,"$36,880,033",Risen,2/19,2016,tt3231054,Risen,2016,107,Action,Adventure,Drama,6.3,20791,Kevin Reynolds,Kevin Reynolds
+442,"$36,261,763",The Nice Guys,5/20,2016,tt3799694,The Nice Guys,2016,116,Action,Comedy,Crime,7.4,211730,Shane Black,Shane Black
+443,"$34,916,787",The 5th Wave,1/22,2016,tt2304933,The 5th Wave,2016,112,Action,Adventure,Sci-Fi,5.2,82924,J Blakeson,Susannah Grant
+444,"$34,343,574",Inferno,10/28,2016,tt3062096,Inferno,2016,121,Action,Adventure,Crime,6.2,121323,Ron Howard,Dan Brown
+445,"$30,498,085","Hail, Caesar!",2/5,2016,tt0475290,"Hail, Caesar!",2016,106,Comedy,Mystery,,6.3,101327,Ethan Coen,Joel Coen
+446,"$29,747,603",When the Bough Breaks,9/9,2016,tt1389139,When the Bough Breaks,2016,107,Crime,Drama,Horror,4.9,3906,Jon Cassar,Jack Olsen
+447,"$27,569,558",The Finest Hours,1/29,2016,tt2025690,The Finest Hours,2016,117,Action,Drama,History,6.8,51448,Craig Gillespie,Scott Silver
+448,"$27,383,770",Florence Foster Jenkins,8/12,2016,tt4136084,Florence Foster Jenkins,2016,111,Biography,Comedy,Drama,6.9,39672,Stephen Frears,Nicholas Martin
+449,"$27,007,844",Hell or High Water,8/12,2016,tt6043054,Hell or High Waters,2016,\N,Action,,,5.1,34,Paul T.T. Easter,Paul T.T. Easter
+450,"$26,594,261",The Forest,1/8,2016,tt3592218,The Forest,2014,72,Documentary,History,,6.8,16,Sinisa Dragin,Sinisa Dragin
+451,"$25,138,705",The Witch,2/19,2016,tt4263482,The Witch,2015,92,Horror,Mystery,,6.8,123882,Robert Eggers,Robert Eggers
+452,"$25,138,705",The Witch,2/19,2016,tt5634336,The Litch,2017,90,Horror,,,8.2,5,James Balsamo,James Balsamo
+453,"$25,138,705",The Witch,2/19,2016,tt6186362,The Witching,2016,80,Horror,,,3.9,416,Corey Norman,Michelle Davidson
+454,"$24,252,420",Bridget Jones's Baby,9/16,2016,tt1473832,Bridget Jones's Baby,2016,118,Comedy,Romance,,6.6,52655,Sharon Maguire,Helen Fielding
+455,"$23,591,043",Kevin Hart: What Now?,10/14,2016,tt4669186,Kevin Hart: What Now?,2016,96,Comedy,Documentary,,5.8,7028,Leslie Small,Kevin Hart
+456,"$21,587,519",Snowden,9/16,2016,tt3774114,Snowden,2016,134,Biography,Drama,Thriller,7.3,103122,Oliver Stone,Kieran Fitzgerald
+457,"$20,774,575",God's Not Dead 2,4/1,2016,tt2528814,God's Not Dead,2014,113,Drama,,,4.8,36038,Harold Cronk,Hunter Dennis
+458,"$20,591,853",Keanu,4/29,2016,tt4139124,Keanu,2016,100,Action,Comedy,,6.3,37331,Peter Atencio,Jordan Peele
+459,"$18,730,891",The Choice,2/5,2016,tt3797868,The Choice,2016,111,Drama,Romance,,6.6,25910,Ross Katz,Bryan Sipe
+460,"$15,861,566",The Birth of a Nation,10/7,2016,tt4196450,The Birth of a Nation,2016,120,Biography,Drama,History,6.4,16819,Nate Parker,Nate Parker
+461,"$14,444,999","Hello, My Name is Doris",3/11,2016,tt3766394,"Hello, My Name Is Doris",2015,90,Comedy,Drama,Romance,6.6,15612,Michael Showalter,Laura Terruso
+462,"$14,016,568",Love & Friendship,5/13,2016,tt3068194,Love & Friendship,2016,90,Comedy,Drama,Romance,6.4,19238,Whit Stillman,Whit Stillman
+463,"$13,880,630",A Beautiful Planet,4/29,2016,tt2800050,A Beautiful Planet,2016,45,Documentary,,,7.6,533,Toni Myers,Toni Myers
+464,"$11,686,940",Fifty Shades of Black,1/29,2016,tt4667094,Fifty Shades of Black,2016,92,Comedy,,,3.5,15287,Michael Tiddes,Marlon Wayans
+465,"$11,103,205",Cafe Society,7/15,2016,tt4513674,Caf¨¦ Society,2016,96,Comedy,Drama,Romance,6.6,55677,Woody Allen,Woody Allen
+466,"$10,938,134",Pride and Prejudice and Zombies,2/5,2016,tt1374989,Pride and Prejudice and Zombies,2016,108,Action,Horror,Romance,5.8,40972,Burr Steers,Burr Steers
+467,"$9,639,125",Popstar: Never Stop Never Stopping,6/3,2016,tt3960412,Popstar: Never Stop Never Stopping,2016,87,Comedy,Music,,6.7,39331,Akiva Schaffer,Andy Samberg
+468,"$9,097,072",Meet the Blacks,4/1,2016,tt4191580,Meet the Blacks,2016,94,Comedy,Horror,,5.8,22281,Deon Taylor,Nicole DeMasi
+469,"$8,821,329",Ratchet & Clank,4/29,2016,tt2865120,Ratchet & Clank,2016,94,Action,Adventure,Animation,5.6,8238,Jericca Cleland,T.J. Fixman
+470,"$7,751,969",Loving ,11/4,2016,tt4669986,Loving,2016,123,Biography,Drama,Romance,7.0,24583,Jeff Nichols,Jeff Nichols
+471,"$6,490,401",The Young Messiah,3/11,2016,tt1002563,The Young Messiah,2016,111,Drama,Fantasy,,5.6,2580,Cyrus Nowrasteh,Anne Rice
+472,"$6,304,223",Southside with You,8/26,2016,tt4258698,Southside with You,2016,84,Biography,Drama,History,6.4,6428,Richard Tanne,Richard Tanne
+473,"$4,799,774",Incarnate,12/2,2016,tt3216348,Incarnate,2016,91,Fantasy,Horror,Mystery,5.2,8837,Brad Peyton,Ronnie Christensen
+474,"$4,772,155",Absolutely Fabulous: The Movie,7/22,2016,tt2112096,Absolutely Fabulous: The Movie,2016,91,Comedy,Crime,,5.4,9766,Mandie Fletcher,Jennifer Saunders
+475,"$4,210,454",Swiss Army Man,6/24,2016,tt4034354,Swiss Army Man,2016,97,Adventure,Comedy,Drama,7.0,79029,Daniel Scheinert,Daniel Scheinert
+476,"$3,915,251",Morgan,9/2,2016,tt4520364,Morgan,2016,92,Action,Horror,Sci-Fi,5.8,31074,Luke Scott,Seth W. Owen
+477,"$3,903,095",Kabali,7/21,2016,tt5071886,Kabali,2016,153,Action,Crime,Drama,6.4,9161,Pa. Ranjith,Pa. Ranjith
+478,"$3,866,794",The Man Who Knew Infinity,4/29,2016,tt0787524,The Man Who Knew Infinity,2015,108,Biography,Drama,,7.2,37301,Matt Brown,Matt Brown
+479,"$3,818,664",Max Steel,10/14,2016,tt1472584,Max Steel,2016,92,Action,Adventure,Family,4.6,14913,Stewart Hendler,Christopher Yost
+480,"$3,652,206",Rules Don't Apply,11/23,2016,tt1974420,Rules Don't Apply,2016,127,Comedy,Drama,Romance,5.7,6515,Warren Beatty,Warren Beatty
+481,"$3,479,315",A Man Called Ove,9/30,2016,tt4080728,A Man Called Ove,2015,116,Comedy,Drama,Romance,7.7,31682,Hannes Holm,Hannes Holm
+482,"$3,400,278",Everybody Wants Some!!,3/30,2016,tt2937696,Everybody Wants Some!!,2016,117,Comedy,,,7.0,43456,Richard Linklater,Richard Linklater
+483,"$3,153,157",Our Kind of Traitor,7/1,2016,tt1995390,Our Kind of Traitor,2016,108,Crime,Drama,Thriller,6.2,15242,Susanna White,John le Carr¨¦
+484,"$3,000,342",The Other Side of the Door,3/4,2016,tt2260254,The Other Side of the Mirror,2016,123,Drama,Fantasy,History,2.5,554,Zach Hamer,Zach Hamer
+485,"$3,000,342",The Other Side of the Door,3/4,2016,tt3566920,The Other Side of the Door,2014,90,Drama,,,3.8,5,Ira Farmer,Ira Farmer
+486,"$3,000,342",The Other Side of the Door,3/4,2016,tt3702652,The Other Side of the Door,2016,96,Horror,,,5.3,14568,Johannes Roberts,Johannes Roberts
+487,"$2,964,845",Anthropoid,8/12,2016,tt4190530,Anthropoid,2016,120,Biography,History,Thriller,7.2,33076,Sean Ellis,Sean Ellis
+488,"$2,610,896",Miles Ahead,4/1,2016,tt0790770,Miles Ahead,2015,100,Action,Biography,Comedy,6.4,7771,Don Cheadle,Steven Baigelman
+489,"$2,341,534",Elle,11/11,2016,tt3060600,Elle,2013,57,Biography,Documentary,,6.8,8,Geraldine Brezca,Geraldine Brezca
+490,"$2,341,534",Elle,11/11,2016,tt3716530,Elle,2016,130,Crime,Drama,Thriller,7.2,47803,Paul Verhoeven,Philippe Djian
+491,"$2,313,043",A Aa,6/1,2016,tt5684466,A Aa,2016,152,Comedy,Drama,Romance,7.0,1083,Trivikram Srinivas,Trivikram Srinivas
+492,"$2,152,738",Paterson,12/28,2016,tt2922516,Patron,2013,71,Biography,Documentary,,6.0,11,Pia Andell,Pia Andell
+493,"$1,978,592",Demolition,4/8,2016,tt1172049,Demolition,2015,101,Comedy,Drama,,7.0,69547,Jean-Marc Vall¨¦e,Bryan Sipe
+494,"$1,918,403",Shin Godzilla,10/11,2016,tt4262980,Shin Godzilla,2016,120,Action,Adventure,Drama,6.7,14350,Shinji Higuchi,Hideaki Anno
+495,"$1,801,550",M.S. Dhoni: The Untold Story,9/30,2016,tt4169250,M.S. Dhoni: The Untold Story,2016,184,Biography,Drama,Sport,7.8,25066,Neeraj Pandey,Neeraj Pandey
+496,"$1,676,108",Weiner,5/20,2016,tt5278596,Weiner,2016,96,Documentary,,,7.6,8355,Elyse Steinberg,Josh Kriegman
+497,"$1,659,002",The Comedian,12/9,2016,tt1967614,The Comedian,2016,120,Comedy,,,5.8,4897,Taylor Hackford,Art Linson
+498,"$1,513,793",Jane Got a Gun,1/29,2016,tt2140037,Jane Got a Gun,2015,98,Action,Drama,Western,5.9,17082,Gavin O'Connor,Brian Duffield
+499,"$1,333,124",The Neon Demon,6/24,2016,tt1974419,The Neon Demon,2016,118,Horror,Thriller,,6.2,63123,Nicolas Winding Refn,Nicolas Winding Refn
+500,"$1,264,339",Mohenjo Daro,8/12,2016,tt3859980,Mohenjo Daro,2016,155,Action,Adventure,Drama,5.9,8722,Ashutosh Gowariker,Ashutosh Gowariker
+501,"$1,124,045",Wazir,1/8,2016,tt0315642,Wazir,2016,103,Action,Crime,Drama,7.2,14484,Bejoy Nambiar,Vidhu Vinod Chopra
+502,"$1,115,615",Papa: Hemingway in Cuba,4/29,2016,tt2749282,Papa Hemingway in Cuba,2015,110,Biography,Drama,,6.3,990,Bob Yari,Denne Bart Petitclerc
+503,"$1,055,287",Elvis & Nixon,4/22,2016,tt2093991,Elvis & Nixon,2016,86,Comedy,History,,6.4,10840,Liza Johnson,Joey Sagal
+504,"$1,016,985",The Hollars,8/26,2016,tt3714720,The Hollars,2016,88,Comedy,Drama,Romance,6.5,8418,John Krasinski,Jim Strouse
+505,"$897,876",Gentleman,6/17,2016,tt2058617,Gentlemen,2014,141,Drama,Romance,Thriller,6.3,622,Mikael Marcimain,Klas ?stergren
+506,"$897,876",Gentleman,6/17,2016,tt5613834,A Gentleman,2017,145,Action,Comedy,Thriller,6.4,3775,Krishna D.K.,Raj Nidimoru
+507,"$812,737",Dishoom,7/29,2016,tt3679060,Dishoom,2016,124,Action,Adventure,Comedy,5.1,4920,Rohit Dhawan,Rohit Dhawan
+508,"$800,012",Operation Mekong,9/30,2016,tt6044910,Operation Mekong,2016,124,Action,Adventure,Crime,6.7,2676,Dante Lam,Kang Kei Chu
+509,"$744,541",I Belonged to You,9/30,2016,tt6074202,I Belonged to You,2016,112,Drama,Romance,,5.3,268,Yibai Zhang,Jiajia Zhang
+510,"$700,723",Chaar Sahibzaade: Rise of Band Singh Bahadur,11/11,2016,tt6246170,Chaar Sahibzaade 2: Rise of Banda Singh Bahadur,2016,134,Animation,,,8.3,385,Harry Baweja,Harry Baweja
+511,"$685,780",Mr. Church,9/16,2016,tt4196848,Mr. Church,2016,104,Comedy,Drama,,7.6,20062,Bruce Beresford,Susan McMartin
+512,"$597,251",Master,12/30,2016,tt2161435,Masters,2013,\N,Action,,,6.9,8,Jason Lau,Jason Lau
+513,"$568,876",Tunnel,8/26,2016,tt5910280,Tunnel,2016,126,Action,Drama,Thriller,6.9,4350,Seong-hun Kim,Seong-hun Kim
+514,"$566,006",Knight of Cups,3/4,2016,tt2101383,Knight of Cups,2015,118,Drama,Romance,,5.7,20242,Terrence Malick,Terrence Malick
+515,"$561,460",Harry & Snowman,9/30,2016,tt2898306,Harry & Snowman,2015,84,Biography,Documentary,Drama,7.7,443,Ron Davis,Ron Davis
+516,"$560,824",Cold War 2,7/8,2016,tt5112622,Cold War II,2016,110,Action,Crime,Drama,6.6,1916,Kim-Ching Luk,Lok Man Leung
+517,"$544,098",American Pastoral,10/21,2016,tt0376479,American Pastoral,2016,108,Crime,Drama,,6.1,10957,Ewan McGregor,Philip Roth
+518,"$498,000",Befikre,12/9,2016,tt5108476,Befikre,2016,130,Comedy,Drama,Romance,3.8,5746,Aditya Chopra,Aditya Chopra
+519,"$490,643",The Boy and the Beast,3/4,2016,tt4272866,The Boy and the Beast,2015,119,Action,Adventure,Animation,7.7,12959,Mamoru Hosoda,Mamoru Hosoda
+520,"$477,453",Wiener-Dog,6/24,2016,tt4144190,Wiener-Dog,2016,88,Comedy,Drama,,5.9,7537,Todd Solondz,Todd Solondz
+521,"$467,555",Our Little Sister,7/8,2016,tt3756788,Our Little Sister,2015,128,Comedy,Drama,,7.5,7735,Hirokazu Koreeda,Akimi Yoshida
+522,"$467,555",Our Little Sister,7/8,2016,tt5434870,Little Sister,2016,91,Comedy,Drama,,6.3,2593,Zach Clark,Zach Clark
+523,"$436,798",I Am Not Madame Bovary,11/18,2016,tt5918090,I Am Not Madame Bovary,2016,128,Comedy,Drama,,7.0,1460,Xiaogang Feng,Zhenyun Liu
+524,"$388,140",Things To Come,12/2,2016,tt4120176,Things to Come,2016,102,Drama,,,7.0,8620,Mia Hansen-L?ve,Mia Hansen-L?ve
+525,"$351,840",Happy Bhaag Jayegi,8/19,2016,tt5472758,Happy Bhag Jayegi,2016,126,Comedy,Romance,,6.4,3959,Mudassar Aziz,Mudassar Aziz
+526,"$350,703",Kahaani 2,12/2,2016,tt5477608,Kahaani 2,2016,127,Mystery,Thriller,,6.6,3791,Sujoy Ghosh,Sujoy Ghosh
+527,"$346,472",High-Rise,5/13,2016,tt0462335,High-Rise,2015,119,Drama,,,5.6,30377,Ben Wheatley,Amy Jump
+528,"$331,507",Te3n,6/10,2016,tt2309562,Ten,2013,118,Drama,,,5.5,31,Craig Wyting,Craig Wyting
+529,"$331,507",Te3n,6/10,2016,tt2496400,Ten,2014,83,Adventure,Horror,Mystery,5.6,668,Sophia Cacciola,Michael J. Epstein
+530,"$331,507",Te3n,6/10,2016,tt6415838,Ten,2017,\N,Horror,Mystery,Thriller,4.6,152,Chris Robert,Gretchen McNeil
+531,"$327,959",Kaashmora,10/28,2016,tt5980232,Kaashmora,2016,163,Action,Comedy,Fantasy,5.6,808,Gokul,Gokul
+532,"$269,980",Kingsglaive: Final Fantasy: XV,8/19,2016,tt5595168,Kingsglaive: Final Fantasy XV,2016,110,Action,Adventure,Animation,6.8,16895,Takeshi Nozue,Takashi Hasegawa
+533,"$262,921",The Family Fang,4/29,2016,tt2097331,The Family Fang,2015,105,Comedy,Drama,Mystery,6.1,6149,Jason Bateman,Kevin Wilson
+534,"$262,921",The Family Fang,4/29,2016,tt3765728,The Family Farm,2014,72,Biography,Documentary,Family,6.8,5,Ari A. Cohen,Ari A. Cohen
+535,"$255,388","Life, Animated",7/1,2016,tt3917210,"Life, Animated",2016,92,Animation,Comedy,Documentary,7.5,4437,Roger Ross Williams,Ron Suskind
+536,"$231,737",The Invitation,4/8,2016,tt2400463,The Invitation,2015,100,Drama,Mystery,Thriller,6.7,54183,Karyn Kusama,Phil Hay
+537,"$219,401",Naam Hai Akira,9/2,2016,tt5465370,Naam Hai Akira,2016,137,Action,Crime,Drama,5.9,3124,A.R. Murugadoss,Santha Kumar
+538,"$190,581",Digimon Adventure tri.,9/15,2016,tt5468018,Digimon Adventure Tri. 5,2017,89,Action,Adventure,Animation,7.2,152,Keitar? Motonaga,Mitsutaka Hirota
+539,"$182,695",The Masked Saint,1/8,2016,tt3103166,The Masked Saint,2016,105,Action,Biography,Crime,4.6,501,Warren P. Sonoda,Scott Crowell
+540,"$177,404",The Wave,3/4,2016,tt2931376,The Wake,2017,86,Horror,,,2.6,195,Faouzi Brahimi,Bryan Brewer
+541,"$175,702",Asura: The City of Madness,10/7,2016,tt5918028,Asura: The City of Madness,2016,136,Action,Crime,,6.6,1292,Sung-su Kim,Sung-soo Kim
+542,"$159,714",Sunset Song,5/13,2016,tt2262161,Sunset Song,2015,135,Drama,,,6.5,2625,Terence Davies,Lewis Grassic Gibbon
+543,"$157,481",Eva Hesse,4/27,2016,tt3601350,Eva Hesse,2016,108,Biography,Documentary,History,6.7,79,Marcie Begleiter,Marcie Begleiter
+544,"$151,926",Born to be Blue,3/4,2016,tt2133196,Born to Be Blue,2015,97,Biography,Drama,Music,6.9,5800,Robert Budreau,Robert Budreau
+545,"$150,191",Kicks,9/9,2016,tt2402127,Kick,2015,76,Drama,Horror,Thriller,3.2,214,Marcus Warren,Marcus Warren
+546,"$149,090",Michael Moore In TrumpLand,10/19,2016,tt6163356,Michael Moore in TrumpLand,2016,73,Documentary,,,5.8,2977,Michael Moore,Michael Moore
+547,"$144,822",Krisha,3/18,2016,tt4266638,Krisha,2015,83,Drama,,,7.2,4868,Trey Edward Shults,Trey Edward Shults
+548,"$135,382",The Kind Words,6/24,2016,tt3809478,The Kind Words,2015,118,Drama,,,6.7,202,Shemi Zarhin,Shemi Zarhin
+549,"$135,026",Tumbledown,2/5,2016,tt2338424,Tumbledown,2015,105,Comedy,Music,Romance,6.2,5118,Sean Mewshaw,Sean Mewshaw
+550,"$135,026",Tumbledown,2/5,2016,tt2732210,Tumbledown,2013,80,Drama,Mystery,Romance,4.1,157,Todd Verow,Brad Hallowell
+551,"$127,910",The Brand New Testament,12/9,2016,tt3792960,The Brand New Testament,2015,114,Comedy,Fantasy,,7.1,22951,Jaco Van Dormael,Thomas Gunzig
+552,"$122,902",A War,2/12,2016,tt3830162,A War,2015,115,Crime,Drama,War,7.1,7380,Tobias Lindholm,Tobias Lindholm
+553,"$119,100",Remember the Goal,8/26,2016,tt5066818,Remember the Goal,2016,88,Drama,,,6.7,80,Dave Christiano,Dave Christiano
+554,"$117,755",Victor,9/15,2016,tt5078214,Victoria,2016,97,Comedy,Drama,Romance,6.3,2084,Justine Triet,Justine Triet
+555,"$109,649",Zero Days,7/8,2016,tt5446858,Zero Days,2016,116,Documentary,,,7.8,6974,Alex Gibney,Alex Gibney
+556,"$104,734",Dictator,1/13,2016,tt5304086,Dictator,2016,155,Action,Drama,,4.4,524,Sriwass,Gopimohan
+557,"$104,038",Demon,9/9,2016,tt2165715,Demon,2013,77,Horror,,,3.0,85,Rob Walker,Bernie Felix Jr.
+558,"$104,038",Demon,9/9,2016,tt7275352,Demon,2017,70,Horror,,,2.7,21,Dallas King,Dallas King
+559,"$102,890",Puerto Ricans in Paris,6/10,2016,tt3730510,Puerto Ricans in Paris,2015,82,Comedy,,,5.3,1228,Ian Edelman,Ian Edelman
+560,"$102,033",Cameraperson,9/9,2016,tt5375040,Cameraperson,2016,102,Documentary,,,7.4,1656,Kirsten Johnson,Doris Baizley
+561,"$98,868",Rock On 2,11/11,2016,tt2137241,Rock On 2,2016,143,Drama,Music,,5.0,1571,Shujaat Saudagar,Abhishek Kapoor
+562,"$85,999",Author: The JT LeRoy Story,9/9,2016,tt5278462,Author: The JT LeRoy Story,2016,110,Biography,Documentary,,7.2,815,Jeff Feuerzeig,Jeff Feuerzeig
+563,"$78,366",Sky on Fire,12/2,2016,tt6157600,Sky on fire,2016,99,Action,Crime,Thriller,4.8,209,Ringo Lam,Hiroshi Fukazawa
+564,"$78,288",Colliding Dreams,3/4,2016,tt3891218,Colliding Dreams,2015,134,Biography,Documentary,History,7.0,81,Oren Rudavsky,Joseph Dorman
+565,"$71,916",Raiders!: The Story of the Greatest Fan Film Ever Made,6/17,2016,tt3551954,Raiders!: The Story of the Greatest Fan Film Ever Made,2015,106,Documentary,,,6.9,1486,Tim Skousen,Tim Skousen
+566,"$66,680",Max Rose,9/2,2016,tt1439558,Max Rose,2013,83,Drama,,,6.3,372,Daniel Noah,Daniel Noah
+567,"$66,175",King Georges,2/26,2016,tt4092774,King Georges,2015,77,Biography,Documentary,,6.9,229,Erika Frankel,Erika Frankel
+568,"$63,564",The Tenth Man,7/29,2016,tt5446610,The Tenth Man,2016,82,Comedy,Drama,,5.7,497,Daniel Burman,Daniel Burman
+569,"$62,279",Mifune: The Last Samurai,11/25,2016,tt4000670,Mifune: The Last Samurai,2015,80,Documentary,,,7.2,574,Steven Okazaki,Stuart Galbraith IV
+570,"$60,438",Too Late,3/18,2016,tt2394063,Too Late,2015,107,Drama,Mystery,Thriller,6.7,1610,Dennis Hauck,Dennis Hauck
+571,"$57,635",Command and Control,9/14,2016,tt5598206,Command and Control,2016,92,Documentary,History,,7.2,538,Robert Kenner,Robert Kenner
+572,"$57,527",Sold,4/1,2016,tt1411956,Sold,2016,94,Drama,,,6.8,1209,Jeffrey D. Brown,Jeffrey D. Brown
+573,"$57,046",Pele: Birth of a Legend,5/13,2016,tt0995868,Pel¨¦: Birth of a Legend,2016,107,Biography,Drama,Sport,7.2,11127,Michael Zimbalist,Jeff Zimbalist
+574,"$55,804",L'attesa,4/29,2016,tt3715122,L'attesa,2015,100,Drama,,,6.5,1558,Piero Messina,Giacomo Bendotti
+575,"$55,511",The Lovers and the Despot,9/23,2016,tt5278868,The Lovers & the Despot,2016,98,Documentary,Thriller,,6.5,718,Ross Adam,Ross Adam
+576,"$53,647",In a Valley of Violence,10/21,2016,tt3608930,In a Valley of Violence,2016,104,Action,Crime,Drama,6.0,10966,Ti West,Ti West
+577,"$52,761",The Club,2/5,2016,tt3107254,The Cube,2013,\N,Thriller,,,5.9,283,Scott McMahon,Scott McMahon
+578,"$51,950",Cemetery of Splendor,3/4,2016,tt2818654,Cemetery of Splendor,2015,122,Drama,Fantasy,,6.8,3199,Apichatpong Weerasethakul,Apichatpong Weerasethakul
+579,"$50,203",The Treasure,1/8,2016,tt4515684,The Treasure,2015,89,Comedy,,,6.8,2125,Corneliu Porumboiu,Corneliu Porumboiu
+580,"$47,258",Ma ma,5/20,2016,tt2023587,Mama,2013,100,Horror,Thriller,,6.2,151279,Andy Muschietti,Andy Muschietti
+581,"$47,258",Ma ma,5/20,2016,tt5437970,Mama,2016,90,Drama,,,6.6,23,Vlado Skafar,Vlado Skafar
+582,"$43,756",The Land,7/29,2016,tt5164412,The Land,2016,104,Drama,,,6.4,1245,Steven Caple Jr.,Steven Caple Jr.
+583,"$43,403",Mastizaade,1/29,2016,tt3726012,Mastizaade,2016,119,Comedy,,,2.4,2073,Milap Zaveri,Mushtaq Sheikh
+584,"$42,166",Closet Monster,9/23,2016,tt3638396,Closet Monster,2015,90,Drama,Fantasy,Mystery,7.0,5725,Stephen Dunn,Stephen Dunn
+585,"$39,928",Is That a Gun in Your Pocket?,9/16,2016,tt4196832,Is That a Gun in Your Pocket?,2016,95,Comedy,,,5.8,2074,Matt Cooper,Matt Cooper
+586,"$37,766",Come What May,9/9,2016,tt2296747,Come What May,2015,114,Drama,War,,6.6,611,Christian Carion,Christian Carion
+587,"$36,885",Trust Fund,1/8,2016,tt3969208,Trust Fund,2017,107,Drama,,,6.5,47,Sandra L. Martin,Sandra L. Martin
+588,"$36,027","Kill Me, Deadly",4/1,2016,tt2022441,"Kill Me, Deadly",2015,100,Comedy,History,Mystery,7.4,54,Darrett Sanders,Bill Robens
+589,"$620,180,528",Star Wars: The Last Jedi,12/15,2017,tt2527336,Star Wars: The Last Jedi,2017,152,Action,Adventure,Fantasy,7.4,361181,Rian Johnson,Rian Johnson
+590,"$412,563,408",Wonder Woman,6/2,2017,tt0451279,Wonder Woman,2017,141,Action,Adventure,Fantasy,7.5,399935,Patty Jenkins,Allan Heinberg
+591,"$403,951,484",Jumanji: Welcome to the Jungle,12/20,2017,tt2283362,Jumanji: Welcome to the Jungle,2017,119,Action,Adventure,Comedy,7.0,140375,Jake Kasdan,Chris McKenna
+592,"$389,813,101",Guardians of the Galaxy Vol. 2,5/5,2017,tt2015381,Guardians of the Galaxy,2014,121,Action,Adventure,Sci-Fi,8.1,828704,James Gunn,James Gunn
+593,"$389,813,101",Guardians of the Galaxy Vol. 2,5/5,2017,tt3896198,Guardians of the Galaxy Vol. 2,2017,136,Action,Adventure,Sci-Fi,7.7,361364,James Gunn,James Gunn
+594,"$327,481,748",It,9/8,2017,tt1396484,It,2017,135,Drama,Horror,Thriller,7.5,265111,Andy Muschietti,Chase Palmer
+595,"$315,058,289",Thor: Ragnarok,11/3,2017,tt3501632,Thor: Ragnarok,2017,130,Action,Adventure,Comedy,7.9,296225,Taika Waititi,Eric Pearson
+596,"$229,024,295",Justice League,11/17,2017,tt0974015,Justice League,2017,120,Action,Adventure,Fantasy,6.7,236444,Zack Snyder,Chris Terrio
+597,"$176,040,665",Get Out,2/24,2017,tt5052448,Get Out,2017,104,Horror,Mystery,Thriller,7.7,293461,Jordan Peele,Jordan Peele
+598,"$175,750,384",The LEGO Batman Movie,2/10,2017,tt4116284,The LEGO Batman Movie,2017,104,Action,Adventure,Animation,7.3,97738,Chris McKay,Seth Grahame-Smith
+599,"$175,003,033",The Boss Baby,3/31,2017,tt3874544,The Boss Baby,2017,97,Animation,Comedy,Family,6.3,76662,Tom McGrath,Michael McCullers
+600,"$152,901,115",Cars 3,6/16,2017,tt3606752,Cars 3,2017,102,Adventure,Animation,Comedy,6.8,43378,Brian Fee,Brian Fee
+601,"$146,880,162",War for the Planet of the Apes,7/14,2017,tt2103281,Dawn of the Planet of the Apes,2014,130,Action,Adventure,Drama,7.6,369953,Matt Reeves,Mark Bomback
+602,"$138,291,365",Split,1/20,2017,tt5495666,Split,2016,80,Drama,,,6.8,19,Lawrence C?t¨¦-Collins,Lawrence C?t¨¦-Collins
+603,"$107,825,862",Baby Driver,6/28,2017,tt3890160,Baby Driver,2017,112,Action,Crime,Music,7.7,289449,Edgar Wright,Edgar Wright
+604,"$104,029,443",Daddy's Home 2,11/10,2017,tt5657846,Daddy's Home 2,2017,100,Comedy,,,6.0,29217,Sean Anders,Sean Anders
+605,"$81,835,084",The Post,12/22,2017,tt1517260,The Host,2013,125,Action,Adventure,Romance,5.9,101180,Andrew Niccol,Andrew Niccol
+606,"$81,835,084",The Post,12/22,2017,tt5537146,The Host,2015,60,Documentary,,,6.4,8,Miranda Pennell,Miranda Pennell
+607,"$81,835,084",The Post,12/22,2017,tt6294822,The Post,2017,116,Biography,Drama,History,7.2,60378,Steven Spielberg,Liz Hannah
+608,"$74,262,031",Alien: Covenant,5/19,2017,tt2316204,Alien: Covenant,2017,122,Horror,Sci-Fi,Thriller,6.5,194299,Ridley Scott,Dan O'Bannon
+609,"$73,921,000",Captain Underpants: The First Epic Movie,6/2,2017,tt2091256,Captain Underpants: The First Epic Movie,2017,89,Action,Animation,Comedy,6.2,17684,David Soren,Nicholas Stoller
+610,"$72,110,659",A Bad Moms Christmas,11/1,2017,tt6359956,A Bad Moms Christmas,2017,104,Adventure,Comedy,,5.5,20840,Jon Lucas,Jon Lucas
+611,"$63,814,637",The Shape of Water,12/1,2017,tt5580390,The Shape of Water,2017,123,Adventure,Drama,Fantasy,7.5,193969,Guillermo del Toro,Guillermo del Toro
+612,"$58,060,186",Baywatch,5/25,2017,tt1469304,Baywatch,2017,116,Action,Comedy,Crime,5.6,99309,Seth Gordon,Michael Berk
+613,"$57,386,418",The Shack,3/3,2017,tt2872518,The Shack,2017,132,Drama,Fantasy,,6.3,21350,Stuart Hazeldine,John Fusco
+614,"$54,465,037","Three Billboards Outside Ebbing, Missouri",11/10,2017,tt5027774,"Three Billboards Outside Ebbing, Missouri",2017,115,Crime,Drama,,8.2,214196,Martin McDonagh,Martin McDonagh
+615,"$51,342,000",American Made,9/29,2017,tt3532216,American Made,2017,115,Action,Biography,Comedy,7.2,93843,Doug Liman,Gary Spinelli
+616,"$45,852,178",Snatched,5/12,2017,tt2334871,Snatched,2017,90,Action,Comedy,,4.4,24480,Jonathan Levine,Katie Dippold
+617,"$45,540,830",The Great Wall,2/17,2017,tt2034800,The Great Wall,2016,103,Action,Adventure,Fantasy,6.0,96886,Yimou Zhang,Carlo Bernard
+618,"$45,020,282",Smurfs: The Lost Village,4/7,2017,tt2398241,Smurfs: The Lost Village,2017,90,Adventure,Animation,Comedy,5.9,12845,Kelly Asbury,Stacey Harman
+619,"$44,307,192",47 Meters Down,6/16,2017,tt2932536,47 Meters Down,2017,89,Adventure,Drama,Horror,5.7,29830,Johannes Roberts,Johannes Roberts
+620,"$42,873,127",The Big Sick,6/23,2017,tt5462602,The Big Sick,2017,120,Comedy,Drama,Romance,7.6,81941,Michael Showalter,Emily V. Gordon
+621,"$39,175,066",King Arthur: Legend of the Sword,5/12,2017,tt1972591,King Arthur: Legend of the Sword,2017,126,Action,Adventure,Drama,6.8,145011,Guy Ritchie,Joby Harold
+622,"$36,249,674",American Assassin,9/15,2017,tt1961175,American Assassin,2017,112,Action,Thriller,,6.2,42730,Michael Cuesta,Stephen Schiff
+623,"$33,800,859",Wind River,8/4,2017,tt5362988,Wind River,2017,107,Crime,Drama,Mystery,7.8,117393,Taylor Sheridan,Taylor Sheridan
+624,"$33,700,160",Geostorm,10/20,2017,tt1981128,Geostorm,2017,109,Action,Sci-Fi,Thriller,5.4,55431,Dean Devlin,Dean Devlin
+625,"$30,353,973",Underworld: Blood Wars,1/6,2017,tt3717252,Underworld: Blood Wars,2016,91,Action,Adventure,Fantasy,5.8,55701,Anna Foerster,Cory Goodman
+626,"$30,006,215","I, Tonya",12/8,2017,tt5580036,"I, Tonya",2017,120,Biography,Comedy,Drama,7.6,79335,Craig Gillespie,Steven Rogers
+627,"$29,812,876",Hostiles,12/22,2017,tt5085522,Hostile,2017,83,Drama,Horror,,5.4,242,Mathieu Turi,Mathieu Turi
+628,"$29,812,876",Hostiles,12/22,2017,tt5478478,Hostiles,2017,134,Adventure,Drama,Western,7.3,11167,Scott Cooper,Scott Cooper
+629,"$27,793,018",Rings,2/3,2017,tt0498381,Rings,2017,102,Drama,Horror,,4.5,29241,F. Javier Guti¨¦rrez,David Loucka
+630,"$27,020,284",Home Again,9/8,2017,tt5719700,Home Again,2017,97,Comedy,Drama,Romance,5.7,15102,Hallie Meyers-Shyer,Hallie Meyers-Shyer
+631,"$25,584,504",The House,6/30,2017,tt3678180,Theo's House,2014,108,Drama,Romance,,5.4,12,Rax Rinnekangas,Rax Rinnekangas
+632,"$25,584,504",The House,6/30,2017,tt4481514,The House,2017,88,Comedy,,,5.6,23222,Andrew Jay Cohen,Andrew Jay Cohen
+633,"$25,113,707",All the Money in the World,12/25,2017,tt5294550,All the Money in the World,2017,132,Biography,Crime,Drama,7.0,28629,Ridley Scott,David Scarpa
+634,"$24,801,212",Gifted,4/7,2017,tt4481414,Gifted,2017,101,Drama,,,7.6,64379,Marc Webb,Tom Flynn
+635,"$24,449,754",Downsizing,12/22,2017,tt1389072,Downsizing,2017,135,Comedy,Drama,Sci-Fi,5.7,41293,Alexander Payne,Alexander Payne
+636,"$22,245,070",Victoria and Abdul,9/22,2017,tt5816682,Victoria & Abdul,2017,111,Biography,Drama,History,6.8,17544,Stephen Frears,Lee Hall
+637,"$21,858,070",Leap!,8/25,2017,tt2261287,Leap!,2016,89,Adventure,Animation,Comedy,6.8,13094,Paulette Victor-Lifton,Eric Summer
+638,"$21,023,275",Phantom Thread,12/25,2017,tt5776858,Phantom Thread,2017,130,Drama,Romance,,7.7,50185,Paul Thomas Anderson,Paul Thomas Anderson
+639,"$20,783,704",Sleepless,1/13,2017,tt2072233,Sleepless,2017,95,Action,Crime,Thriller,5.6,21524,Baran bo Odar,Andrea Berloff
+640,"$20,738,724",Diary of a Wimpy Kid: The Long Haul,5/19,2017,tt6003368,Diary of a Wimpy Kid: The Long Haul,2017,91,Comedy,Family,,4.3,4206,David Bowers,Jeff Kinney
+641,"$18,065,180",Call Me by Your Name,11/24,2017,tt5726616,Call Me by Your Name,2017,132,Drama,Romance,,8.0,97729,Luca Guadagnino,James Ivory
+642,"$17,800,004",mother!,9/15,2017,tt5109784,Mother!,2017,121,Drama,Horror,Mystery,6.7,112773,Darren Aronofsky,Darren Aronofsky
+643,"$17,501,244",Father Figures,12/22,2017,tt1966359,Father Figures,2017,113,Comedy,,,5.2,5076,Lawrence Sher,Justin Malen
+644,"$16,790,139",Detroit,7/28,2017,tt5390504,Detroit,2017,143,Crime,Drama,Thriller,7.4,29299,Kathryn Bigelow,Mark Boal
+645,"$14,301,505",Wish Upon,7/14,2017,tt5322012,Wish Upon,2017,90,Fantasy,Horror,Thriller,5.1,10388,John R. Leonetti,Barbara Marshall
+646,"$11,962,778","Roman J. Israel, Esq.",11/17,2017,tt6000478,"Roman J. Israel, Esq.",2017,122,Crime,Drama,,6.4,13664,Dan Gilroy,Dan Gilroy
+647,"$10,051,659",Marshall,10/13,2017,tt5301662,Marshall,2017,118,Biography,Drama,,7.2,8870,Reginald Hudlin,Jacob Koskoff
+648,"$9,536,300",Thank You for Your Service (2017),10/27,2017,tt2776878,Thank You for Your Service,2017,109,Biography,Drama,War,6.5,6547,Jason Hall,Jason Hall
+649,"$9,420,546",Rock Dog,2/24,2017,tt2822672,Rock Dog,2016,90,Adventure,Animation,Comedy,5.9,3131,Ash Brannon,Ash Brannon
+650,"$8,580,410",The Lost City of Z,4/14,2017,tt1212428,The Lost City of Z,2016,141,Adventure,Biography,Drama,6.6,55360,James Gray,James Gray
+651,"$8,106,986",A Cure for Wellness,2/17,2017,tt4731136,A Cure for Wellness,2016,146,Drama,Fantasy,Horror,6.4,58557,Gore Verbinski,Justin Haythe
+652,"$7,233,471",Let there be Light,10/27,2017,tt5804314,Let There Be Light,2017,100,Drama,,,4.6,1550,Kevin Sorbo,Dan Gordon
+653,"$7,227,038",Gold,1/27,2017,tt2338846,Gold,2013,101,Adventure,Drama,Western,6.2,894,Thomas Arslan,Thomas Arslan
+654,"$7,227,038",Gold,1/27,2017,tt5162658,Gold,2017,103,Adventure,Drama,History,5.7,506,Agust¨ªn D¨ªaz Yanes,Arturo P¨¦rez-Reverte
+655,"$7,123,919",I am Not Your Negro,2/3,2017,tt5804038,I Am Not Your Negro,2016,93,Documentary,,,7.8,11283,Raoul Peck,James Baldwin
+656,"$6,901,965",Birth of the Dragon,8/25,2017,tt2720826,Birth of the Dragon,2016,95,Action,Biography,Drama,5.3,4645,George Nolfi,Stephen J. Rivele
+657,"$6,735,118",Loving Vincent,9/22,2017,tt3262342,Loving Vincent,2017,94,Animation,Biography,Crime,7.9,25344,Hugh Welchman,Dorota Kobiela
+658,"$6,303,560",Lowriders,5/12,2017,tt1366338,Lowriders,2016,98,Adventure,Crime,Drama,5.6,1502,Ricardo de Montreuil,Elgin James
+659,"$6,170,998",Maudie,4/14,2017,tt3721954,Maudie,2016,115,Biography,Drama,Romance,7.7,7596,Aisling Walsh,Sherry White
+660,"$5,904,366",The Florida Project,10/6,2017,tt5649144,The Florida Project,2017,111,Drama,,,7.7,43358,Sean Baker,Sean Baker
+661,"$5,802,208",All Saints,8/25,2017,tt4663548,All Saints,2017,108,Drama,,,5.8,833,Steve Gomer,Steve Armour
+662,"$5,775,178",Suburbicon,10/27,2017,tt0491175,Suburbicon,2017,105,Crime,Drama,Mystery,5.5,19129,George Clooney,Joel Coen
+663,"$5,560,921",Tiger Zinda Hai,12/22,2017,tt5956100,Tiger Zinda Hai,2017,161,Action,Adventure,Thriller,6.3,14727,Ali Abbas Zafar,Neelesh Misra
+664,"$4,211,129",Stronger,9/22,2017,tt6319470,Stranger,2017,54,Documentary,Drama,Sport,9.2,5,Kenneth Michiels,Kenneth Michiels
+665,"$4,077,333",The Hero,6/9,2017,tt5655222,The Hero,2017,93,Comedy,Drama,Romance,6.5,5242,Brett Haley,Brett Haley
+666,"$3,759,078",Friend Request,9/22,2017,tt2277308,Friend Request,2013,91,Thriller,,,5.2,79,Mario DeAngelis,Jason Falasco
+667,"$3,614,896",Table 19,3/3,2017,tt1412528,Table 19,2017,87,Comedy,Drama,Romance,5.8,17245,Jeffrey Blitz,Mark Duplass
+668,"$3,600,146",Phoenix Forgotten,4/21,2017,tt6574272,Phoenix Forgotten,2017,87,Horror,Mystery,Sci-Fi,5.2,3704,Justin Barber,T.S. Nowlin
+669,"$3,496,795",An Inconvenient Sequel: Truth to Power,7/28,2017,tt6322922,An Inconvenient Sequel: Truth to Power,2017,98,Documentary,,,6.2,5140,Bonni Cohen,Al Gore
+670,"$3,024,308",Ingrid Goes West,8/11,2017,tt5962210,Ingrid Goes West,2017,98,Comedy,Drama,,6.7,18545,Matt Spicer,David Branson Smith
+671,"$2,587,072",A Question Of Faith,9/29,2017,tt6054650,A Question of Faith,2017,104,Drama,,,4.9,501,Kevan Otto,Ty Manns
+672,"$2,570,392",Is Genesis History?,2/23,2017,tt6360332,Is Genesis History?,2017,100,Documentary,,,4.1,1199,Thomas Purifoy,Thomas Purifoy
+673,"$2,455,635",Tulip Fever,9/1,2017,tt0491203,Tulip Fever,2017,105,Drama,Romance,,6.2,9778,Justin Chadwick,Deborah Moggach
+674,"$2,402,067",The Salesman,1/27,2017,tt5186714,The Salesman,2016,124,Drama,Thriller,,7.8,33910,Asghar Farhadi,Asghar Farhadi
+675,"$2,402,004",T2: Trainspotting,3/17,2017,tt2763304,T2 Trainspotting,2017,117,Drama,,,7.3,79886,Danny Boyle,John Hodge
+676,"$2,401,722",Pokemon the Movie: I Choose You!,11/5,2017,tt6595896,Pok¨¦mon the Movie: I Choose You!,2017,98,Action,Adventure,Animation,6.5,2150,Kunihiko Yuyama,Takeshi Shudo
+677,"$2,335,162",Jeepers Creepers 3,9/26,2017,tt1139592,Jeepers Creepers III,2017,100,Horror,Mystery,Thriller,4.3,11481,Victor Salva,Victor Salva
+678,"$2,280,004",Collide,2/24,2017,tt2126235,Collide,2016,99,Action,Crime,Thriller,5.7,11363,Eran Creevy,F. Scott Frazier
+679,"$2,194,521",The Lovers,5/5,2017,tt1321869,The Lovers,2013,109,Action,Adventure,Romance,4.5,2687,Roland Joff¨¦,Ajey Jhankar
+680,"$2,194,521",The Lovers,5/5,2017,tt3746918,The Losers,2013,112,Drama,,,3.6,15,Yi-an Lou,Yi-an Lou
+681,"$2,194,521",The Lovers,5/5,2017,tt4515824,These Lovers,2014,81,Drama,Romance,,7.8,9,Piotr Skowronski,Piotr Skowronski
+682,"$2,133,158",Brad's Status,9/15,2017,tt5884230,Brad's Status,2017,102,Comedy,Drama,Music,6.5,8396,Mike White,Mike White
+683,"$1,915,789",Everybody Loves Somebody,2/17,2017,tt5537228,Everybody Loves Somebody,2017,102,Comedy,Romance,,6.5,2461,Catalina Aguilar Mastretta,Catalina Aguilar Mastretta
+684,"$1,865,396",A Quiet Passion,4/14,2017,tt2392830,A Quiet Passion,2016,125,Biography,Drama,,6.6,3676,Terence Davies,Terence Davies
+685,"$1,803,064",The Wall,5/12,2017,tt2159988,The Walk,2015,89,Crime,Thriller,,6.7,121,Timothy Fielding,Timothy Fielding
+686,"$1,803,064",The Wall,5/12,2017,tt2926868,The Call,2013,25,Documentary,,,7.5,10,Reber Dosky,Reber Dosky
+687,"$1,703,036",Menashe,7/28,2017,tt6333086,Menashe,2017,82,Drama,,,6.5,1054,Joshua Z Weinstein,Alex Lipschultz
+688,"$1,687,000",Slamma Jamma,3/24,2017,tt5319866,Slamma Jamma,2017,104,Drama,Sport,,6.6,1003,Timothy A. Chey,Timothy A. Chey
+689,"$1,664,648",Jab Harry Met Sejal,8/4,2017,tt5997666,Jab Harry met Sejal,2017,143,Comedy,Drama,Romance,5.5,14321,Imtiaz Ali,Imtiaz Ali
+690,"$1,647,175",The Little Hours,6/30,2017,tt5666304,The Little Hours,2017,90,Comedy,Romance,,5.8,9822,Jeff Baena,Jeff Baena
+691,"$1,596,371",A Ghost Story,7/7,2017,tt5703622,Asian Ghost Story,2016,75,Action,Horror,,2.7,15,David DeCoteau,David DeCoteau
+692,"$1,596,371",A Ghost Story,7/7,2017,tt6265828,A Ghost Story,2017,92,Drama,Fantasy,Romance,6.9,33289,David Lowery,David Lowery
+693,"$1,584,759",Professor Marston & the Wonder Women,10/13,2017,tt6133130,Professor Marston and the Wonder Women,2017,108,Biography,Drama,,7.1,10381,Angela Robinson,Angela Robinson
+694,"$1,579,440",The Stray,10/6,2017,tt5342904,The Stray,2017,92,Drama,Family,,5.2,452,Mitch Davis,Mitch Davis
+695,"$1,431,255",Judwaa 2,9/29,2017,tt5456546,Judwaa 2,2017,145,Action,Comedy,,4.0,5846,David Dhawan,Yunus Sajawal
+696,"$1,412,404",The Wedding Plan,5/12,2017,tt5991206,The Wedding Plan,2016,110,Comedy,Romance,,6.6,679,Rama Burshtein,Rama Burshtein
+697,"$1,404,061",Wonder Wheel,12/1,2017,tt5825380,Wonder Wheel,2017,101,Drama,,,6.2,11310,Woody Allen,Woody Allen
+698,"$1,323,312",The Dinner,5/5,2017,tt3203620,The Dinner,2017,120,Crime,Drama,Thriller,4.5,5097,Oren Moverman,Herman Koch
+699,"$1,323,312",The Dinner,5/5,2017,tt3561348,The Dinner,2014,92,Drama,,,6.5,1174,Ivano De Matteo,Valentina Ferlan
+700,"$1,323,312",The Dinner,5/5,2017,tt3781496,The Diner,2014,\N,Drama,,,7.8,6,Michael Lubin,Michael Lubin
+701,"$1,249,233",3 Idiotas,6/2,2017,tt3685624,3 Idiotas,2017,106,Comedy,Family,,4.1,633,Carlos Bolado,Antonio Abascal
+702,"$1,231,040",True to the Game,9/8,2017,tt5116504,True to the Game,2017,108,Drama,,,5.0,291,Preston A. Whitmore II,Nia Hill
+703,"$965,481",Last Flag Flying,11/3,2017,tt6018306,Last Flag Flying,2017,125,Comedy,Drama,War,6.9,10930,Richard Linklater,Richard Linklater
+704,"$952,432",Faces Places,10/6,2017,tt5598102,Faces Places,2017,89,Documentary,,,8.0,3673,JR,JR
+705,"$940,854",Landline,7/21,2017,tt5804412,Landline,2017,103,Comedy,,,6.4,17,Matthew Aaron,Matthew Aaron
+706,"$930,058",Tubelight,6/23,2017,tt5882970,Tubelight,2017,136,Drama,War,,4.2,10434,Kabir Khan,Kabir Khan
+707,"$768,946",Mark Felt: The Man Who Brought Down the White House,9/29,2017,tt5175450,Mark Felt: The Man Who Brought Down the White House,2017,103,Biography,Drama,History,6.4,5182,Peter Landesman,Peter Landesman
+708,"$709,094",Walk With Me,8/11,2017,tt2331100,Walk with Me,2017,94,Documentary,,,6.4,443,Marc J. Francis,Marc J. Francis
+709,"$708,973",The Exception,6/2,2017,tt4721124,The Exception,2016,107,Drama,Romance,War,6.8,6091,David Leveaux,Simon Burke
+710,"$691,597",Lost in Paris,6/16,2017,tt2936884,Lost in Paris,2016,83,Comedy,,,6.3,1547,Dominique Abel,Dominique Abel
+711,"$624,332",The Only Living Boy in New York,8/11,2017,tt0460890,The Only Living Boy in New York,2017,89,Drama,,,6.3,5156,Marc Webb,Allan Loeb
+712,"$603,582",The Midwife,7/21,2017,tt5348236,The Midwife,2017,117,Drama,,,6.8,1383,Martin Provost,Martin Provost
+713,"$580,346",Novitiate,10/27,2017,tt4513316,Novitiate,2017,123,Drama,,,6.6,1583,Maggie Betts,Maggie Betts
+714,"$557,241",Bitter Harvest,2/24,2017,tt3182620,Bitter Harvest,2017,103,Drama,Romance,War,6.1,2568,George Mendeluk,Richard Bachynsky Hoover
+715,"$555,309",Dolores,9/1,2017,tt5373180,Dolores,2016,98,Drama,History,Romance,5.2,15,Juan Dickinson,Juan Dickinson
+716,"$485,728",Once Upon A Time,8/11,2017,tt3596274,Once Upon a Time,2014,81,Documentary,Drama,Family,6.8,33,Kazim ?z,Kazim ?z
+717,"$473,771",Beach Rats,8/25,2017,tt6303866,Beach Rats,2017,98,Drama,,,6.5,5086,Eliza Hittman,Eliza Hittman
+718,"$471,575",Duckweed,2/10,2017,tt6461514,Duckweed,2017,102,Comedy,Drama,Fantasy,6.5,809,Han Han,Han Han
+719,"$467,596",Phillauri,3/24,2017,tt5502766,Phillauri,2017,138,Comedy,Drama,Fantasy,6.1,2640,Anshai Lal,Anvita Dutt
+720,"$456,854",Chasing the Dragon,9/29,2017,tt6015328,Chasing the Dragon,2017,128,Action,Biography,Crime,6.9,1766,Jing Wong,Jing Wong
+721,"$443,684",Song to Song,3/17,2017,tt2062700,Song to Song,2017,129,Drama,Music,Romance,5.8,12346,Terrence Malick,Terrence Malick
+722,"$410,055",A Gentleman,8/25,2017,tt5613834,A Gentleman,2017,145,Action,Comedy,Thriller,6.4,3775,Krishna D.K.,Raj Nidimoru
+723,"$355,922",Ok Jaanu,1/13,2017,tt5764024,OK Jaanu,2017,135,Drama,Romance,,5.1,2785,Shaad Ali,Mani Ratnam
+724,"$335,609",God's Own Country,10/24,2017,tt5635086,God's Own Country,2017,104,Drama,Romance,,7.7,9490,Francis Lee,Francis Lee
+725,"$321,011",In the Fade,12/27,2017,tt5723272,In the Fade,2017,106,Crime,Drama,,7.3,5823,Fatih Akin,Fatih Akin
+726,"$313,411",Citizen Jane,4/21,2017,tt1444256,Citizen Lane,2013,102,Biography,Documentary,History,7.6,5,Pauley Perrette,Pauley Perrette
+727,"$309,766",My Life as a Zucchini,2/24,2017,tt2321405,My Life as a Zucchini,2016,66,Animation,Comedy,Drama,7.8,13076,Michael Sinterniklaas,Gilles Paris
+728,"$301,718",Happy End,12/22,2017,tt3525678,Happy End?!,2014,86,Drama,Romance,,4.8,160,Petra Clever,Petra Clever
+729,"$272,132",After the Storm,3/17,2017,tt5294966,After the Storm,2016,118,Comedy,Drama,,7.4,5264,Hirokazu Koreeda,Hirokazu Koreeda
+730,"$260,354","I, Daniel Blake",6/2,2017,tt5168192,"I, Daniel Blake",2016,100,Drama,,,7.9,37056,Ken Loach,Paul Laverty
+731,"$257,597",Cezanne et moi,3/31,2017,tt5078354,Cezanne et Moi,2016,117,Biography,Drama,,5.9,602,Dani¨¨le Thompson,Dani¨¨le Thompson
+732,"$250,130",Gook,8/18,2017,tt6057032,Gook,2017,94,Drama,,,7.1,1319,Justin Chon,Justin Chon
+733,"$248,370",Band Aid,6/2,2017,tt5816374,Band Aid,2017,91,Comedy,Drama,Music,6.6,3405,Zoe Lister-Jones,Zoe Lister-Jones
+734,"$248,286",Black Butler: Book of the Atlantic,6/12,2017,tt5476944,Black Butler: Book of the Atlantic,2017,101,Animation,,,7.5,373,Noriyuki Abe,Yana Toboso
+735,"$237,708",American Satan,10/13,2017,tt5451690,American Satan,2017,111,Drama,Music,Thriller,5.5,1536,Ash Avildsen,Ash Avildsen
+736,"$226,006",Rumble: The Indians Who Rocked The World,5/18,2017,tt6333080,Rumble: The Indians Who Rocked The World,2017,103,Documentary,Music,,7.9,290,Catherine Bainbridge,Catherine Bainbridge
+737,"$218,044",Railroad Tigers,1/6,2017,tt4687848,Railroad Tigers,2016,124,Action,Comedy,War,5.9,2593,Ding Sheng,Alex Jia
+738,"$216,556",The Adventurers,8/18,2017,tt5866930,The Adventurers,2017,140,Action,Adventure,Crime,5.7,1615,Stephen Fung,Chi Kwong Cheung
+739,"$210,840",Truman,4/7,2017,tt3754940,Truman,2015,108,Comedy,Drama,,7.3,8868,Cesc Gay,Tom¨¤s Aragay
+740,"$207,481",The Prison,3/31,2017,tt3113466,The Prisoner,2015,82,Horror,Thriller,,7.4,148,Andy Dodd,Andy Dodd
+741,"$196,458",Spark: A Space Tail,4/14,2017,tt3228088,Spark: A Space Tail,2016,91,Adventure,Animation,Comedy,4.5,700,Aaron Woodley,Aaron Woodley
+742,"$176,076",Take Every Wave: The Life of Liard Hamilton,9/29,2017,tt6333092,Take Every Wave: The Life of Laird Hamilton,2017,118,Documentary,Sport,,7.1,152,Rory Kennedy,Mark Bailey
+743,"$155,475",The Journey,6/16,2017,tt3144678,The Journey,2014,103,Comedy,Drama,Family,7.5,523,Keng Guan Chiu,Ryon Lee
+744,"$155,475",The Journey,6/16,2017,tt6213758,The Journey,2017,82,Drama,Thriller,,6.7,55,Mohamed Al Daradji,Mohamed Al Daradji
+745,"$151,042",The Void,4/7,2017,tt6267458,The Void,2016,86,Horror,,,3.9,117,David Cave,David Cave
+746,"$150,532",Blade of the Immortal,11/3,2017,tt5084170,Blade of the Immortal,2017,140,Action,Drama,,6.8,8605,Takashi Miike,Hiroaki Samura
+747,"$147,391",Thelma,11/10,2017,tt6304046,Thelma,2017,116,Drama,Fantasy,Mystery,7.1,11725,Joachim Trier,Eskil Vogt
+748,"$129,547",Moka,6/14,2017,tt5072406,Moka,2016,89,Drama,,,6.2,630,Fr¨¦d¨¦ric Mermoud,Tatiana De Rosnay
+749,"$128,986",I Called Him Morgan,3/24,2017,tt4170344,I Called Him Morgan,2016,92,Documentary,Drama,History,7.2,822,Kasper Collin,Kasper Collin
+750,"$127,986",Marie Curie: The Courage of Knowledge,6/30,2017,tt5705058,Marie Curie: The Courage of Knowledge,2016,100,Biography,Drama,Romance,5.6,616,Marie No?lle,Marie No?lle
+751,"$125,189",BPM (Beats Per Minute),10/20,2017,tt6135348,BPM (Beats Per Minute),2017,143,Drama,,,7.6,6501,Robin Campillo,Robin Campillo
+752,"$124,187",The Thousand Faces Of Dunjia,12/15,2017,tt6814080,The Thousand Faces of Dunjia,2017,113,Action,Adventure,Fantasy,5.5,430,Woo-Ping Yuen,Hark Tsui
+753,"$114,560",Our Time Will Come,7/7,2017,tt7075594,Our Time Will Come,2017,130,Drama,War,,6.5,435,Ann Hui,Jiping He
+754,"$112,621",Slack Bay,3/10,2017,tt4726636,Slack Bay,2016,122,Comedy,,,6.1,2981,Bruno Dumont,Bruno Dumont
+755,"$101,947",Walking Out,10/5,2017,tt4534886,Making Out,2016,85,Comedy,Romance,,5.4,36,Henrique Couto,Henrique Couto
+756,"$101,657",The Lure,2/1,2017,tt2175947,The Cure,2014,90,Action,Sci-Fi,Thriller,3.5,646,David Gould,David Gould
+757,"$101,657",The Lure,2/1,2017,tt5278832,The Lure,2015,92,Comedy,Drama,Horror,6.4,3647,Agnieszka Smoczynska,Robert Bolesto
+758,"$97,049",Poster Boys,9/8,2017,tt6352548,Poster Boys,2017,128,Comedy,,,5.6,1046,Shreyas Talpade,Bunty Rathore
+759,"$95,952",The Fencer,7/21,2017,tt5450080,The Fence,2016,9,Documentary,,,9.2,26,Warren Pereira,Warren Pereira
+760,"$91,335",Memoir of a Murderer,9/8,2017,tt5729348,Memoir of a Murderer,2017,118,Action,Drama,Thriller,7.0,1102,Shin-yeon Won,Jo-yun Hwang
+761,"$91,335",Memoir of a Murderer,9/8,2017,tt5882982,Memoirs of a Murderer,2017,118,Drama,Mystery,Thriller,6.9,740,Y? Irie,Byung-gil Jung
+762,"$81,089",The Nile Hilton Incident,8/11,2017,tt5540188,The Nile Hilton Incident,2017,111,Crime,Drama,Thriller,6.9,3547,Tarik Saleh,Tarik Saleh
+763,"$76,277",The Divine Order,10/27,2017,tt5818818,The Divine Order,2017,96,Comedy,Drama,,7.1,1021,Petra Biondina Volpe,Petra Biondina Volpe
+764,"$73,121",Buster's Mal Heart,4/28,2017,tt5173032,Buster's Mal Heart,2016,96,Drama,Mystery,Thriller,6.0,4022,Sarah Adina Smith,Sarah Adina Smith
+765,"$68,883",My Entire High School Sinking Into the Sea,4/14,2017,tt5538568,My Entire High School Sinking Into the Sea,2016,75,Animation,Comedy,Drama,6.2,510,Dash Shaw,Dash Shaw
+766,"$62,511",Tomorrow,3/10,2017,tt2831326,Tomorrow,2015,115,Drama,,,8.2,13,Drago Graf,Drago Graf
+767,"$62,398",The Tiger Hunter,9/22,2017,tt3853830,The Tiger Hunter,2016,94,Comedy,Drama,,5.6,447,Lena Khan,Sameer Asad Gardezi
+768,"$52,214",My Journey Through French Cinema,6/23,2017,tt5652594,My Journey Through French Cinema,2016,201,Documentary,,,7.6,306,Bertrand Tavernier,Bertrand Tavernier
+769,"$51,766",Beautiful Accident,6/2,2017,tt6797204,Beautiful Accident,2017,104,Comedy,Fantasy,,6.9,107,Wi Ding Ho,Zhichao Ha
+770,"$51,499",Tickling Giants,3/17,2017,tt5494396,Tickling Giants,2016,111,Documentary,,,8.4,1088,Sara Taksler,Sara Taksler
+771,"$47,627",So B. It,10/6,2017,tt3663020,So B. It,2016,98,Drama,,,6.8,151,Stephen Gyllenhaal,Sarah Weeks
+772,"$41,072",Karl Marx City,3/29,2017,tt5952526,Karl Marx City,2016,89,Documentary,,,6.5,128,Michael Tucker,Petra Epperlein
+773,"$40,081",Unrest,9/22,2017,tt7290740,Unrest,2017,45,\N,,,7.0,11,Philippe Grandrieux,Philippe Grandrieux
+774,"$38,786",Birdboy: The Forgotten Children,12/15,2017,tt5004766,Birdboy: The Forgotten Children,2015,76,Animation,Drama,Horror,7.4,551,Pedro Rivero,Joe Deasy
+775,"$37,626",A Woman's Life,5/5,2017,tt5078134,A Woman's Life,2016,119,Drama,,,6.7,628,St¨¦phane Briz¨¦,St¨¦phane Briz¨¦
+776,"$35,967",On the Beach at Night Alone,11/17,2017,tt6412864,On the Beach at Night Alone,2017,101,Drama,,,6.9,1500,Sang-soo Hong,Sang-soo Hong
+777,"$34,630",Sophie and the Rising Sun,1/20,2017,tt4532818,Sophie and the Rising Sun,2016,105,Drama,,,6.5,784,Maggie Greenwald,Maggie Greenwald
+778,"$33,443",Afterimage,5/19,2017,tt2716802,Afterimages,2014,92,Fantasy,Horror,Thriller,5.0,120,Tony Kern,Tony Kern
+779,"$33,443",Afterimage,5/19,2017,tt5186236,Afterimage,2016,98,Biography,Drama,History,7.1,1619,Andrzej Wajda,Andrzej Wajda
+780,"$33,150",Love & Taxes,3/3,2017,tt3596382,Love & Taxes,2015,90,Comedy,Romance,,7.2,20,Jacob Kornbluth,Josh Kornbluth
+781,"$33,109",Super Dark Times,9/29,2017,tt5112578,Super Dark Times,2017,100,Drama,Thriller,,6.6,9503,Kevin Phillips,Ben Collins
+782,"$30,678",The Wound,3/15,2017,tt4669278,The Sound,2017,92,Horror,Mystery,Thriller,3.9,880,Jenna Mattison,Jenna Mattison
